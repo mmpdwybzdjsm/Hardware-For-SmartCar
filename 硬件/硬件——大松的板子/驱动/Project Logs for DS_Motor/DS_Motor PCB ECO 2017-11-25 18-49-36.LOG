@@ -1,0 +1,9 @@
+Added Component: Designator=P2(HDR1X6)
+Added Pin To Net: NetName=MOTOR1 IN1 Pin=P2-1
+Added Pin To Net: NetName=MOTOR1 IN2 Pin=P2-2
+Added Pin To Net: NetName=MOTOR1 IN4 Pin=P2-3
+Added Pin To Net: NetName=MOTOR1 IN3 Pin=P2-4
+Added Pin To Net: NetName=12V Pin=P2-5
+Added Pin To Net: NetName=GND Pin=P2-6
+Added Member To Class: ClassName=DS_Motor Member=Component P2 Motor
+Added Room: Name=DS_Motor

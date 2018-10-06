@@ -1,0 +1,25 @@
+Change Component Footprint: Designator=C28 Old Footprint=0603 New Footprint=0805
+Change Component Footprint: Designator=C29 Old Footprint=0603 New Footprint=0805
+Change Component Footprint: Designator=C30 Old Footprint=0603 New Footprint=0805
+Change Component Footprint: Designator=C31 Old Footprint=0603 New Footprint=0805
+Change Component Footprint: Designator=C32 Old Footprint=0603 New Footprint=0805
+Change Component Footprint: Designator=C33 Old Footprint=0603 New Footprint=0805
+Change Component Footprint: Designator=C34 Old Footprint=0603 New Footprint=0805
+Change Component Footprint: Designator=C35 Old Footprint=0603 New Footprint=0805
+Change Component Footprint: Designator=C38 Old Footprint=0603 New Footprint=0805
+Change Component Footprint: Designator=C39 Old Footprint=0603 New Footprint=0805
+Change Component Footprint: Designator=C40 Old Footprint=0603 New Footprint=0805
+Change Component Footprint: Designator=C41 Old Footprint=0603 New Footprint=0805
+Added Member To Class: ClassName=DS_ZK_FINAL Member=Component C28 Cap Pol1
+Added Member To Class: ClassName=DS_ZK_FINAL Member=Component C29 Cap Pol1
+Added Member To Class: ClassName=DS_ZK_FINAL Member=Component C30 Cap
+Added Member To Class: ClassName=DS_ZK_FINAL Member=Component C31 Cap
+Added Member To Class: ClassName=DS_ZK_FINAL Member=Component C32 Cap
+Added Member To Class: ClassName=DS_ZK_FINAL Member=Component C33 Cap
+Added Member To Class: ClassName=DS_ZK_FINAL Member=Component C34 Cap
+Added Member To Class: ClassName=DS_ZK_FINAL Member=Component C35 Cap
+Added Member To Class: ClassName=DS_ZK_FINAL Member=Component C38 Cap Pol1
+Added Member To Class: ClassName=DS_ZK_FINAL Member=Component C39 Cap
+Added Member To Class: ClassName=DS_ZK_FINAL Member=Component C40 Cap
+Added Member To Class: ClassName=DS_ZK_FINAL Member=Component C41 Cap
+Added Room: Name=DS_ZK_FINAL

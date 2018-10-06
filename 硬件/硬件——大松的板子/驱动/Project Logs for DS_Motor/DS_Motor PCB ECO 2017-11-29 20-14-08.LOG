@@ -1,0 +1,13 @@
+Added Component: Designator=B1(KF301-2P)
+Added Component: Designator=B2(KF301-2P)
+Added Component: Designator=CON1(KF301-2P)
+Added Pin To Net: NetName=NetB1_1 Pin=B1-1
+Added Pin To Net: NetName=NetB1_2 Pin=B1-2
+Added Pin To Net: NetName=NetB2_1 Pin=B2-1
+Added Pin To Net: NetName=NetB2_2 Pin=B2-2
+Added Pin To Net: NetName=GND Pin=CON1-1
+Added Pin To Net: NetName=NetCON1_2 Pin=CON1-2
+Added Member To Class: ClassName=DS_Motor Member=Component B1 Motor
+Added Member To Class: ClassName=DS_Motor Member=Component B2 Motor
+Added Member To Class: ClassName=DS_Motor Member=Component CON1 PoweIn
+Added Room: Name=DS_Motor

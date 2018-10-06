@@ -1,0 +1,12 @@
+Board Information Report
+Filename     : E:\ProjectFile\ADFile\เห\ai.PcbDoc
+Date         : 2018/6/5
+Time         : 0:01:13
+Time Elapsed : 00:00:00
+
+Routing Information
+    Routing completion, 100.00%
+    Connections, 330
+    Connections routed, 330
+    Connections remaining, 0
+count : 4

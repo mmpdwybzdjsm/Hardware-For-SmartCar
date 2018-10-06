@@ -1,0 +1,38 @@
+Removed Pin From Net: NetName=GND Pin=TLY-1
+Removed Pin From Net: NetName=5V Pin=TLY-2
+Removed Pin From Net: NetName=PTE1 Pin=TLY-3
+Removed Pin From Net: NetName=PTE0 Pin=TLY-4
+Removed Member From Class: ClassName=DS_zk Member=TLY
+Change Component Designator: OldDesignator=C13 NewDesignator=C11
+Change Component Designator: OldDesignator=C14 NewDesignator=C12
+Change Component Designator: OldDesignator=C15 NewDesignator=C13
+Change Component Designator: OldDesignator=CSB NewDesignator=*2
+Change Component Designator: OldDesignator=DJ NewDesignator=*6
+Change Component Designator: OldDesignator=DY NewDesignator=DY1
+Change Component Designator: OldDesignator=HWCJ NewDesignator=*5
+Change Component Designator: OldDesignator=JG NewDesignator=*7
+Change Component Designator: OldDesignator=moter NewDesignator=moter2
+Change Component Designator: OldDesignator=oled NewDesignator=oled1
+Change Component Designator: OldDesignator=P NewDesignator=P1
+Change Component Designator: OldDesignator=R8 NewDesignator=R7
+Change Component Designator: OldDesignator=R9 NewDesignator=R8
+Change Component Designator: OldDesignator=R10 NewDesignator=R9
+Change Component Designator: OldDesignator=R11 NewDesignator=R10
+Change Component Designator: OldDesignator=R12 NewDesignator=R11
+Change Component Designator: OldDesignator=R13 NewDesignator=R12
+Change Component Designator: OldDesignator=R14 NewDesignator=R13
+Change Component Designator: OldDesignator=R15 NewDesignator=R14
+Change Component Designator: OldDesignator=R16 NewDesignator=R15
+Change Component Designator: OldDesignator=R17 NewDesignator=R16
+Change Component Designator: OldDesignator=SD NewDesignator=*1
+Change Component Designator: OldDesignator=tps NewDesignator=*9
+Change Component Designator: OldDesignator=YK NewDesignator=*3
+Added Component: Designator=*8(HDR1X8)
+Added Pin To Net: NetName=5V Pin=*8-1
+Added Pin To Net: NetName=GND Pin=*8-2
+Added Pin To Net: NetName=PTE1 Pin=*8-3
+Added Pin To Net: NetName=PTE0 Pin=*8-4
+Change Net Name : Old Net Name=Net*11_4 New Net Name=Net*9_4
+Change Net Name : Old Net Name=NetP_2 New Net Name=NetP1_2
+Added Member To Class: ClassName=DS_zk Member=Component *8 мсбщрг
+Added Room: Name=DS_zk

@@ -1,0 +1,6 @@
+Change Component Footprint: Designator=C4 Old Footprint=0603 New Footprint=0805
+Added Pin To Net: NetName=PTA19 Pin=K1-82
+Added Member To Class: ClassName=20180616 Member=Component C7 Cap
+Added Member To Class: ClassName=20180616 Member=Component S1 zk
+Added Member To Class: ClassName=20180616 Member=Component U2 LM2596-5
+Added Room: Name=20180616

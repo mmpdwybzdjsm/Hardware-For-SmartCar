@@ -1,0 +1,5 @@
+Added Component: Designator=S6(BUTTON)
+Added Pin To Net: NetName=GND Pin=S6-1
+Added Pin To Net: NetName=PTC10 Pin=S6-2
+Added Member To Class: ClassName=DS_zk Member=Component S6 SW-PB
+Added Room: Name=DS_zk

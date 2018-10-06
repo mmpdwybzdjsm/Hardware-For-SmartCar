@@ -1,0 +1,120 @@
+Removed Pin From Net: NetName=NetD3_1 Pin=D3-1
+Removed Pin From Net: NetName=PTB16 Pin=R1-1
+Removed Pin From Net: NetName=PTB17 Pin=R2-1
+Removed Pin From Net: NetName=PTE0 Pin=R11-1
+Removed Pin From Net: NetName=PTE1 Pin=R12-1
+Removed Pin From Net: NetName=PTE2 Pin=R13-1
+Removed Pin From Net: NetName=PTE3 Pin=R14-1
+Removed Pin From Net: NetName=PTE4 Pin=R15-1
+Removed Pin From Net: NetName=PTE5 Pin=R16-1
+Removed Pin From Net: NetName=PTB17 Pin=S1-7
+Removed Pin From Net: NetName=PTB16 Pin=S1-8
+Removed Pin From Net: NetName=PTE0 Pin=S2-2
+Removed Pin From Net: NetName=PTE1 Pin=S3-2
+Removed Pin From Net: NetName=PTE2 Pin=S4-2
+Removed Pin From Net: NetName=PTE3 Pin=S5-2
+Removed Pin From Net: NetName=PTE4 Pin=S6-2
+Removed Pin From Net: NetName=PTE5 Pin=S7-2
+Removed Pin From Net: NetName=NetD3_1 Pin=U2-1
+Removed Member From Class: ClassName=20180616 Member=C35
+Removed Member From Class: ClassName=20180616 Member=R17
+Removed Member From Class: ClassName=20180616 Member=R31
+Removed Member From Class: ClassName=20180616 Member=S9
+Removed Member From Class: ClassName=20180616 Member=U4
+Change Component Designator: OldDesignator=*5 NewDesignator=*2
+Change Component Designator: OldDesignator=2 NewDesignator=1
+Change Component Designator: OldDesignator=blue NewDesignator=blue1
+Change Component Designator: OldDesignator=C7 NewDesignator=C8
+Change Component Designator: OldDesignator=C8 NewDesignator=C9
+Change Component Designator: OldDesignator=C31 NewDesignator=C4
+Change Component Designator: OldDesignator=C33 NewDesignator=C5
+Change Component Designator: OldDesignator=C34 NewDesignator=C6
+Change Component Designator: OldDesignator=C35 NewDesignator=C7
+Change Component Designator: OldDesignator=D3 NewDesignator=D2
+Change Component Designator: OldDesignator=D5 NewDesignator=D3
+Change Component Designator: OldDesignator=D7 NewDesignator=D1
+Change Component Designator: OldDesignator=Moter NewDesignator=Moter1
+Change Component Designator: OldDesignator=R1 NewDesignator=R3
+Change Component Designator: OldDesignator=R2 NewDesignator=R4
+Change Component Designator: OldDesignator=R3 NewDesignator=R5
+Change Component Designator: OldDesignator=R4 NewDesignator=R6
+Change Component Designator: OldDesignator=R7 NewDesignator=R13
+Change Component Designator: OldDesignator=R8 NewDesignator=R14
+Change Component Designator: OldDesignator=R9 NewDesignator=R15
+Change Component Designator: OldDesignator=R11 NewDesignator=R7
+Change Component Designator: OldDesignator=R12 NewDesignator=R8
+Change Component Designator: OldDesignator=R13 NewDesignator=R9
+Change Component Designator: OldDesignator=R14 NewDesignator=R10
+Change Component Designator: OldDesignator=R15 NewDesignator=R11
+Change Component Designator: OldDesignator=R16 NewDesignator=R12
+Change Component Designator: OldDesignator=R17 NewDesignator=R2
+Change Component Designator: OldDesignator=R31 NewDesignator=R1
+Change Component Designator: OldDesignator=S1 NewDesignator=S2
+Change Component Designator: OldDesignator=S2 NewDesignator=S3
+Change Component Designator: OldDesignator=S3 NewDesignator=S4
+Change Component Designator: OldDesignator=S4 NewDesignator=S5
+Change Component Designator: OldDesignator=S5 NewDesignator=S6
+Change Component Designator: OldDesignator=S6 NewDesignator=S7
+Change Component Designator: OldDesignator=S7 NewDesignator=S8
+Change Component Designator: OldDesignator=S9 NewDesignator=S1
+Change Component Designator: OldDesignator=U2 NewDesignator=U3
+Change Component Designator: OldDesignator=U4 NewDesignator=U2
+Added Pin To Net: NetName=NetD3_1 Pin=D3-1
+Added Pin To Net: NetName=PTB21 Pin=K1-104
+Added Pin To Net: NetName=PTB22 Pin=K1-107
+Added Pin To Net: NetName=NetD3_1 Pin=U2-2
+Change Net Name : Old Net Name=NetD7_1 New Net Name=NetD1_1
+Change Net Name : Old Net Name=NetR8_1 New Net Name=NetR14_1
+Added Pin To Net: NetName=NetD2_1 Pin=D2-1
+Added Pin To Net: NetName=NetD2_1 Pin=U3-1
+Added Net: Name=NetD2_1
+Added Pin To Net: NetName=NetR15_1 Pin=R15-1
+Added Pin To Net: NetName=NetR15_1 Pin=U3-5
+Added Net: Name=NetR15_1
+Added Pin To Net: NetName=PTC5 Pin=K1-1
+Added Pin To Net: NetName=PTC5 Pin=R3-1
+Added Pin To Net: NetName=PTC5 Pin=S2-8
+Added Net: Name=PTC5
+Added Pin To Net: NetName=PTC7 Pin=K1-3
+Added Pin To Net: NetName=PTC7 Pin=R4-1
+Added Pin To Net: NetName=PTC7 Pin=S2-7
+Added Net: Name=PTC7
+Added Pin To Net: NetName=PTC9 Pin=K1-5
+Added Pin To Net: NetName=PTC9 Pin=R5-1
+Added Pin To Net: NetName=PTC9 Pin=S2-6
+Added Net: Name=PTC9
+Added Pin To Net: NetName=PTC11 Pin=K1-7
+Added Pin To Net: NetName=PTC11 Pin=R6-2
+Added Pin To Net: NetName=PTC11 Pin=S2-5
+Added Net: Name=PTC11
+Added Pin To Net: NetName=PTC13 Pin=K1-9
+Added Pin To Net: NetName=PTC13 Pin=R7-1
+Added Pin To Net: NetName=PTC13 Pin=S3-2
+Added Net: Name=PTC13
+Added Pin To Net: NetName=PTC14 Pin=K1-10
+Added Pin To Net: NetName=PTC14 Pin=R8-1
+Added Pin To Net: NetName=PTC14 Pin=S4-2
+Added Net: Name=PTC14
+Added Pin To Net: NetName=PTC15 Pin=K1-11
+Added Pin To Net: NetName=PTC15 Pin=R9-1
+Added Pin To Net: NetName=PTC15 Pin=S5-2
+Added Net: Name=PTC15
+Added Pin To Net: NetName=PTC16 Pin=K1-12
+Added Pin To Net: NetName=PTC16 Pin=R10-1
+Added Pin To Net: NetName=PTC16 Pin=S6-2
+Added Net: Name=PTC16
+Added Pin To Net: NetName=PTC17 Pin=K1-14
+Added Pin To Net: NetName=PTC17 Pin=R12-1
+Added Pin To Net: NetName=PTC17 Pin=S8-2
+Added Net: Name=PTC17
+Added Pin To Net: NetName=PTC19 Pin=K1-13
+Added Pin To Net: NetName=PTC19 Pin=R11-1
+Added Pin To Net: NetName=PTC19 Pin=S7-2
+Added Net: Name=PTC19
+Added Member To Class: ClassName=20180616 Member=Component C9 Cap Pol1
+Added Member To Class: ClassName=20180616 Member=Component R5 Res2
+Added Member To Class: ClassName=20180616 Member=Component R6 Res2
+Added Member To Class: ClassName=20180616 Member=Component R14 180R
+Added Member To Class: ClassName=20180616 Member=Component S8 SW-PB
+Added Member To Class: ClassName=20180616 Member=Component U3 MC34063
+Added Room: Name=20180616

@@ -1,0 +1,10 @@
+Added Component: Designator=D2(1206C)
+Added Component: Designator=R8(0805(2012))
+Added Pin To Net: NetName=GND Pin=D2-2
+Added Pin To Net: NetName=VBAT Pin=R8-1
+Added Pin To Net: NetName=NetD2_1 Pin=D2-1
+Added Pin To Net: NetName=NetD2_1 Pin=R8-2
+Added Net: Name=NetD2_1
+Added Member To Class: ClassName=DS_Motor Member=Component D2 LED0
+Added Member To Class: ClassName=DS_Motor Member=Component R8 10k
+Added Room: Name=DS_Motor

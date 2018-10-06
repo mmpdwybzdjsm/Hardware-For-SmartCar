@@ -1,0 +1,68 @@
+Removed Pin From Net: NetName=PTB20-2 Pin=R36-2
+Removed Pin From Net: NetName=Net*11_33 Pin=R38-1
+Removed Pin From Net: NetName=Net*11_34 Pin=R38-2
+Removed Pin From Net: NetName=EXTAL33-2 Pin=R40-1
+Removed Pin From Net: NetName=XTAL32-2 Pin=R40-2
+Change Component Designator: OldDesignator=R33 NewDesignator=R34
+Change Component Designator: OldDesignator=R34 NewDesignator=R33
+Change Component Designator: OldDesignator=R35 NewDesignator=R37
+Change Component Designator: OldDesignator=R36 NewDesignator=R35
+Change Component Designator: OldDesignator=R37 NewDesignator=R39
+Change Component Designator: OldDesignator=R39 NewDesignator=R42
+Change Component Designator: OldDesignator=R41 NewDesignator=R44
+Change Component Designator: OldDesignator=R42 NewDesignator=R45
+Change Component Designator: OldDesignator=R43 NewDesignator=R46
+Added Component: Designator=D10(0805LED)
+Added Component: Designator=D11(0805LED)
+Added Component: Designator=D12(0805LED)
+Added Component: Designator=oled2(HDR1X6)
+Added Component: Designator=R36(0603)
+Added Component: Designator=R41(0603)
+Added Component: Designator=R43(0603)
+Added Pin To Net: NetName=3V3-2 Pin=D10-1
+Added Pin To Net: NetName=3V3-2 Pin=D11-1
+Added Pin To Net: NetName=3V3-2 Pin=D12-1
+Added Pin To Net: NetName=GND Pin=oled2-1
+Added Pin To Net: NetName=5V Pin=oled2-2
+Added Pin To Net: NetName=PTB21-2 Pin=oled2-3
+Added Pin To Net: NetName=Net*11_33 Pin=R41-1
+Added Pin To Net: NetName=Net*11_34 Pin=R41-2
+Added Pin To Net: NetName=EXTAL33-2 Pin=R43-1
+Added Pin To Net: NetName=XTAL32-2 Pin=R43-2
+Added Pin To Net: NetName=NetD10_2 Pin=D10-2
+Added Pin To Net: NetName=NetD10_2 Pin=R36-1
+Added Net: Name=NetD10_2
+Added Pin To Net: NetName=NetD11_2 Pin=D11-2
+Added Pin To Net: NetName=NetD11_2 Pin=R38-1
+Added Net: Name=NetD11_2
+Added Pin To Net: NetName=NetD12_2 Pin=D12-2
+Added Pin To Net: NetName=NetD12_2 Pin=R40-1
+Added Net: Name=NetD12_2
+Added Pin To Net: NetName=PTA19-2 Pin=*11-73
+Added Pin To Net: NetName=PTA19-2 Pin=oled2-6
+Added Net: Name=PTA19-2
+Added Pin To Net: NetName=PTA24-2 Pin=*11-75
+Added Pin To Net: NetName=PTA24-2 Pin=oled2-5
+Added Net: Name=PTA24-2
+Added Pin To Net: NetName=PTB22-2 Pin=oled2-4
+Added Net: Name=PTB22-2
+Added Pin To Net: NetName=PTC4-2 Pin=*11-109
+Added Pin To Net: NetName=PTC4-2 Pin=R35-2
+Added Net: Name=PTC4-2
+Added Pin To Net: NetName=PTC5-2 Pin=*11-110
+Added Pin To Net: NetName=PTC5-2 Pin=R36-2
+Added Net: Name=PTC5-2
+Added Pin To Net: NetName=PTC6-2 Pin=*11-111
+Added Pin To Net: NetName=PTC6-2 Pin=R38-2
+Added Net: Name=PTC6-2
+Added Pin To Net: NetName=PTC7-2 Pin=*11-112
+Added Pin To Net: NetName=PTC7-2 Pin=R40-2
+Added Net: Name=PTC7-2
+Added Member To Class: ClassName=DS_ZK_FINAL Member=Component D10 LED0
+Added Member To Class: ClassName=DS_ZK_FINAL Member=Component D11 LED0
+Added Member To Class: ClassName=DS_ZK_FINAL Member=Component D12 LED0
+Added Member To Class: ClassName=DS_ZK_FINAL Member=Component oled2 OLED
+Added Member To Class: ClassName=DS_ZK_FINAL Member=Component R44 Res2
+Added Member To Class: ClassName=DS_ZK_FINAL Member=Component R45 Res2
+Added Member To Class: ClassName=DS_ZK_FINAL Member=Component R46 Res2
+Added Room: Name=DS_ZK_FINAL

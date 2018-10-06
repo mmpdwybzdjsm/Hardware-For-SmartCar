@@ -1,0 +1,9 @@
+Added Component: Designator=L4(inductance)
+Added Component: Designator=L5(inductance)
+Added Pin To Net: NetName=NetL4_1 Pin=L4-1
+Added Pin To Net: NetName=NetD6_1 Pin=L4-2
+Added Pin To Net: NetName=NetD8_1 Pin=L5-1
+Added Pin To Net: NetName=5V Pin=L5-2
+Added Member To Class: ClassName=ai Member=Component L4 330uH
+Added Member To Class: ClassName=ai Member=Component L5 Inductor
+Added Room: Name=ai

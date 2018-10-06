@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=PTC6 Pin=*7-3
+Removed Pin From Net: NetName=PTC8 Pin=*7-4
+Removed Pin From Net: NetName=PTC10 Pin=*7-5
+Removed Pin From Net: NetName=PTC7 Pin=R11-1
+Removed Pin From Net: NetName=PTC9 Pin=R12-1
+Removed Pin From Net: NetName=PTC11 Pin=R13-1
+Removed Pin From Net: NetName=PTC7 Pin=S4-2
+Removed Pin From Net: NetName=PTC9 Pin=S5-2
+Removed Pin From Net: NetName=PTC11 Pin=S6-2
+Added Pin To Net: NetName=PTC7 Pin=*7-3
+Added Pin To Net: NetName=PTC9 Pin=*7-4
+Added Pin To Net: NetName=PTC11 Pin=*7-5
+Added Pin To Net: NetName=PTC6 Pin=R11-1
+Added Pin To Net: NetName=PTC8 Pin=R12-1
+Added Pin To Net: NetName=PTC10 Pin=R13-1
+Added Pin To Net: NetName=PTC6 Pin=S4-2
+Added Pin To Net: NetName=PTC8 Pin=S5-2
+Added Pin To Net: NetName=PTC10 Pin=S6-2
+Added Room: Name=DS_zk

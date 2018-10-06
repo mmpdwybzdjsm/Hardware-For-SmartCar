@@ -1,0 +1,7 @@
+Added Component: Designator=blue?(HDR1X4)
+Added Pin To Net: NetName=5V Pin=blue?-1
+Added Pin To Net: NetName=GND Pin=blue?-2
+Added Pin To Net: NetName=PTE9 Pin=blue?-3
+Added Pin To Net: NetName=PTE8 Pin=blue?-4
+Added Member To Class: ClassName=ai Member=Component blue? blueteeth2
+Added Room: Name=ai

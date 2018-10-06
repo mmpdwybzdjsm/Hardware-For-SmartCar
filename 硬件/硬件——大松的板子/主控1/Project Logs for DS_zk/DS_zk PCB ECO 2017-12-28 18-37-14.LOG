@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=3V3 Pin=oled1-2
+Change Component Designator: OldDesignator=CSB NewDesignator=*2
+Change Component Designator: OldDesignator=DJ NewDesignator=*6
+Change Component Designator: OldDesignator=JGCJ NewDesignator=*5
+Change Component Designator: OldDesignator=SD NewDesignator=*1
+Change Component Designator: OldDesignator=YK NewDesignator=*3
+Added Pin To Net: NetName=5V Pin=oled1-2
+Added Member To Class: ClassName=DS_zk Member=Component C10 Cap
+Added Member To Class: ClassName=DS_zk Member=Component K1 K60
+Added Room: Name=DS_zk

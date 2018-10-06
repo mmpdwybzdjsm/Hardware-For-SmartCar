@@ -1,0 +1,5 @@
+Added Component: Designator=CON1(KF301-2P)
+Added Pin To Net: NetName=GND Pin=CON1-1
+Added Pin To Net: NetName=VBAT Pin=CON1-2
+Added Member To Class: ClassName=DS_Motor Member=Component CON1 PoweIn
+Added Room: Name=DS_Motor

@@ -1,0 +1,41 @@
+Removed Pin From Net: NetName=3V3-1 Pin=D100-1
+Removed Pin From Net: NetName=NetD100_2 Pin=D100-2
+Removed Pin From Net: NetName=PTE28-2 Pin=R39-1
+Removed Pin From Net: NetName=3V3-3 Pin=R39-2
+Removed Pin From Net: NetName=Net*11_32 Pin=R40-1
+Removed Pin From Net: NetName=Net*11_31 Pin=R40-2
+Removed Pin From Net: NetName=3V3-2 Pin=R42-1
+Removed Pin From Net: NetName=Net*11_42 Pin=R42-2
+Removed Pin From Net: NetName=Net*11_33 Pin=R44-1
+Removed Pin From Net: NetName=Net*11_34 Pin=R44-2
+Removed Pin From Net: NetName=PTB21-2 Pin=R49-1
+Removed Pin From Net: NetName=3V3-3 Pin=R49-2
+Removed Pin From Net: NetName=GND Pin=S11-1
+Removed Pin From Net: NetName=PTE28-2 Pin=S11-2
+Removed Pin From Net: NetName=GND Pin=S12-1
+Removed Pin From Net: NetName=RESET-2 Pin=S12-2
+Removed Pin From Net: NetName=GND Pin=S13-1
+Removed Pin From Net: NetName=PTB21-2 Pin=S13-2
+Removed Member From Class: ClassName=DS_ZK_FINAL Member=R49
+Removed Member From Class: ClassName=DS_ZK_FINAL Member=S11
+Change Component Footprint: Designator=R39 Old Footprint=0805 New Footprint=0603
+Change Component Designator: OldDesignator=R39 NewDesignator=R42
+Added Component: Designator=D100(0805LED)
+Added Component: Designator=R40(0603)
+Added Component: Designator=R44(0603)
+Added Component: Designator=S12(BUTTON)
+Added Pin To Net: NetName=3V3-1 Pin=D100-1
+Added Pin To Net: NetName=NetD100_2 Pin=D100-2
+Added Pin To Net: NetName=Net*11_32 Pin=R40-1
+Added Pin To Net: NetName=Net*11_31 Pin=R40-2
+Added Pin To Net: NetName=3V3-2 Pin=R42-1
+Added Pin To Net: NetName=Net*11_42 Pin=R42-2
+Added Pin To Net: NetName=Net*11_33 Pin=R44-1
+Added Pin To Net: NetName=Net*11_34 Pin=R44-2
+Added Pin To Net: NetName=GND Pin=S12-1
+Added Pin To Net: NetName=RESET-2 Pin=S12-2
+Added Member To Class: ClassName=DS_ZK_FINAL Member=Component D100 LED0
+Added Member To Class: ClassName=DS_ZK_FINAL Member=Component R40 Res2
+Added Member To Class: ClassName=DS_ZK_FINAL Member=Component R44 Res2
+Added Member To Class: ClassName=DS_ZK_FINAL Member=Component S12 SW-PB
+Added Room: Name=DS_ZK_FINAL

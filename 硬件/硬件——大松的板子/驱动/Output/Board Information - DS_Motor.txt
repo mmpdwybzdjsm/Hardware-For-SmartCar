@@ -1,0 +1,20 @@
+Board Information Report
+Filename     : E:\ProjectFile\ADFile\ÇçÑ©\Çý¶¯\DS_Motor.PcbDoc
+Date         : 2017/12/4
+Time         : 19:41:08
+Time Elapsed : 00:00:00
+
+Routing Information
+    Routing completion, 100.00%
+    Connections, 97
+    Connections routed, 97
+    Connections remaining, 0
+count : 4
+
+Net Track Width, Count
+    53499.115mils, 33
+count : 1
+
+Net Via Size, Count
+    50mils, 33
+count : 1

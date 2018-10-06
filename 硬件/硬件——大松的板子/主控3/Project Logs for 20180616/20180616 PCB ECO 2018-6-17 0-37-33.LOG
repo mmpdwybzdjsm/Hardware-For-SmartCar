@@ -1,0 +1,13 @@
+Added Component: Designator=L1(diangan)
+Added Component: Designator=L2(diangan)
+Added Pin To Net: NetName=NetL1_1 Pin=L1-1
+Added Pin To Net: NetName=NetD2_1 Pin=L1-2
+Added Pin To Net: NetName=NetD3_1 Pin=L2-1
+Added Pin To Net: NetName=5V Pin=L2-2
+Added Member To Class: ClassName=20180616 Member=Component C7 Cap
+Added Member To Class: ClassName=20180616 Member=Component L1 330uH
+Added Member To Class: ClassName=20180616 Member=Component L2 Inductor
+Added Member To Class: ClassName=20180616 Member=Component R1 Res2
+Added Member To Class: ClassName=20180616 Member=Component R2 Res2
+Added Member To Class: ClassName=20180616 Member=Component S1 zk
+Added Member To Class: ClassName=20180616 Member=Component U2 LM2596-5

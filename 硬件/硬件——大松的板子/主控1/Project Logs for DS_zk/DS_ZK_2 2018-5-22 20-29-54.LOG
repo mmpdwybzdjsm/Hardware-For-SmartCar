@@ -1,0 +1,14 @@
+Change Component Footprint: Designator=C23 Old Footprint=0805LED New Footprint=0603
+Change Component Footprint: Designator=C30 Old Footprint=0805LED New Footprint=0603
+Change Component Footprint: Designator=C36 Old Footprint=0805LED New Footprint=0603
+Added Pin To Net: NetName=PTA16 Pin=*2-68
+Added Pin To Net: NetName=PTA17 Pin=*2-69
+Added Net: Name=PTC10-2
+Added Net: Name=PTC11-2
+Added Net: Name=PTC12-2
+Added Net: Name=PTC13-2
+Added Net: Name=PTC14-2
+Added Net: Name=PTC15-2
+Added Net: Name=PTC16-2
+Added Net: Name=PTC17-2
+Added Room: Name=DS_ZK_FINAL

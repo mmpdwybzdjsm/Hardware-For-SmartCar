@@ -1,0 +1,18 @@
+Change Component Footprint: Designator=S7 Old Footprint=BMKGTP New Footprint=HDR2X4
+Change Component Comment : Designator=*8 Old Comment=SD¿¨ New Comment=SD
+Change Component Comment : Designator=ÉãÏñÍ· Old Comment=ÉãÏñÍ· New Comment=SXT
+Change Component Comment : Designator=*7 Old Comment=¼¤¹â New Comment=JG
+Change Component Comment : Designator=*5 Old Comment=ºìÍâ²â¾à New Comment=HW
+Change Component Comment : Designator=*6 Old Comment=¶æ»ú New Comment=DJ
+Change Component Comment : Designator=*2 Old Comment=³¬Éù²¨ New Comment=CSB
+Change Component Comment : Designator=*3 Old Comment=Ò£¿Ø New Comment=YK
+Change Component Comment : Designator=*1 Old Comment=ÍÓÂİÒÇ New Comment=TLY
+Change Component Designator: OldDesignator=blue1 NewDesignator=blue
+Change Component Designator: OldDesignator=oled1 NewDesignator=oled
+Change Component Designator: OldDesignator=power NewDesignator=P
+Change Component Designator: OldDesignator=ÉãÏñÍ· NewDesignator=*4
+Change Component Designator: OldDesignator=µç³ØµçÑ¹ÏÔÊ¾1 NewDesignator=DY
+Change Component Designator: OldDesignator=±àÂëÆ÷1 NewDesignator=BMQ1
+Change Component Designator: OldDesignator=±àÂëÆ÷2 NewDesignator=BMQ2
+Change Net Name : Old Net Name=Netpower1_1 New Net Name=NetP_2
+Added Room: Name=DS_zk

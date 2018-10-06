@@ -1,0 +1,4 @@
+Change Net Name : Old Net Name=OUT1 New Net Name=NetB2_2
+Change Net Name : Old Net Name=OUT2 New Net Name=NetB2_1
+Added Member To Class: ClassName=DS_Motor Member=Component U5 IR2104S
+Added Room: Name=DS_Motor

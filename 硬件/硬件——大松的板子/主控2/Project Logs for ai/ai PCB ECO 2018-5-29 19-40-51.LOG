@@ -1,0 +1,19 @@
+Added Component: Designator=D9(0805LED)
+Added Component: Designator=D10(0805LED)
+Added Component: Designator=R34(0805)
+Added Component: Designator=R35(0805)
+Added Pin To Net: NetName=3V3-3 Pin=D9-1
+Added Pin To Net: NetName=5V Pin=D10-1
+Added Pin To Net: NetName=GND Pin=R34-2
+Added Pin To Net: NetName=GND Pin=R35-2
+Added Pin To Net: NetName=NetD9_2 Pin=D9-2
+Added Pin To Net: NetName=NetD9_2 Pin=R34-1
+Added Net: Name=NetD9_2
+Added Pin To Net: NetName=NetD10_2 Pin=D10-2
+Added Pin To Net: NetName=NetD10_2 Pin=R35-1
+Added Net: Name=NetD10_2
+Added Member To Class: ClassName=ai Member=Component D9 LED0
+Added Member To Class: ClassName=ai Member=Component D10 LED0
+Added Member To Class: ClassName=ai Member=Component R34 Res2
+Added Member To Class: ClassName=ai Member=Component R35 Res2
+Added Room: Name=ai

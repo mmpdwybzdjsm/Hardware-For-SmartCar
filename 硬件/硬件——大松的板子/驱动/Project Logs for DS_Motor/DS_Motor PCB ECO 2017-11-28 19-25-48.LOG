@@ -1,0 +1,5 @@
+Added Component: Designator=S1(switch - duplicate)
+Added Pin To Net: NetName=NetCON1_2 Pin=S1-1
+Added Pin To Net: NetName=VBAT Pin=S1-2
+Added Member To Class: ClassName=DS_Motor Member=Component S1 SW-SPST
+Added Room: Name=DS_Motor

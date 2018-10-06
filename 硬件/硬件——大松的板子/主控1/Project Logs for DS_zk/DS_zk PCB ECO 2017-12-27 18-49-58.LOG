@@ -1,0 +1,253 @@
+Removed Pin From Net: NetName=5V Pin=*4-1
+Removed Pin From Net: NetName=5V Pin=*4-2
+Removed Pin From Net: NetName=GND Pin=*4-3
+Removed Pin From Net: NetName=GND Pin=*4-4
+Removed Pin From Net: NetName=PTE11 Pin=*4-5
+Removed Pin From Net: NetName=GND Pin=*5-1
+Removed Pin From Net: NetName=PTD0 Pin=*5-3
+Removed Pin From Net: NetName=5V Pin=*6-1
+Removed Pin From Net: NetName=GND Pin=*6-2
+Removed Pin From Net: NetName=5V Pin=*6-3
+Removed Pin From Net: NetName=专属3.3V Pin=*6-5
+Removed Pin From Net: NetName=PTB0 Pin=*7-1
+Removed Pin From Net: NetName=PTB1 Pin=*7-2
+Removed Pin From Net: NetName=PTB2 Pin=*7-3
+Removed Pin From Net: NetName=PTB3 Pin=*7-4
+Removed Pin From Net: NetName=PTB4 Pin=*7-5
+Removed Pin From Net: NetName=PTB5 Pin=*7-6
+Removed Pin From Net: NetName=PTB6 Pin=*7-7
+Removed Pin From Net: NetName=PTB7 Pin=*7-8
+Removed Pin From Net: NetName=PTA26 Pin=*7-9
+Removed Pin From Net: NetName=PTA25 Pin=*7-10
+Removed Pin From Net: NetName=GND Pin=*7-11
+Removed Pin From Net: NetName=PTA29 Pin=*7-15
+Removed Pin From Net: NetName=PTA27 Pin=*7-17
+Removed Pin From Net: NetName=5V Pin=*7-20
+Removed Pin From Net: NetName=5V Pin=C2-1
+Removed Pin From Net: NetName=3V3 Pin=C3-1
+Removed Pin From Net: NetName=GND Pin=C4-1
+Removed Pin From Net: NetName=5V Pin=C4-2
+Removed Pin From Net: NetName=GND Pin=C5-1
+Removed Pin From Net: NetName=3V3 Pin=C5-2
+Removed Pin From Net: NetName=12V Pin=C6-1
+Removed Pin From Net: NetName=7V2 Pin=C8-1
+Removed Pin From Net: NetName=7V2 Pin=C9-1
+Removed Pin From Net: NetName=GND Pin=C9-2
+Removed Pin From Net: NetName=5V Pin=C10-1
+Removed Pin From Net: NetName=GND Pin=C10-2
+Removed Pin From Net: NetName=GND Pin=C11-1
+Removed Pin From Net: NetName=专属3.3V Pin=C11-2
+Removed Pin From Net: NetName=GND Pin=C12-1
+Removed Pin From Net: NetName=5V Pin=C12-2
+Removed Pin From Net: NetName=NetD3_1 Pin=L2-1
+Removed Pin From Net: NetName=PTD3 Pin=R1-1
+Removed Pin From Net: NetName=NetQ1_2 Pin=R1-2
+Removed Pin From Net: NetName=NetL1_1 Pin=R2-1
+Removed Pin From Net: NetName=7V2 Pin=R2-2
+Removed Pin From Net: NetName=NetL1_1 Pin=R3-2
+Removed Pin From Net: NetName=12V Pin=R4-2
+Removed Pin From Net: NetName=GND Pin=R5-2
+Removed Pin From Net: NetName=NetD2_1 Pin=R6-1
+Removed Pin From Net: NetName=PTC1 Pin=R7-1
+Removed Pin From Net: NetName=3V3 Pin=R7-2
+Removed Pin From Net: NetName=PTC3 Pin=R8-1
+Removed Pin From Net: NetName=PTC5 Pin=R9-1
+Removed Pin From Net: NetName=PTC7 Pin=R10-1
+Removed Pin From Net: NetName=PTC9 Pin=R11-1
+Removed Pin From Net: NetName=PTC11 Pin=R12-1
+Removed Pin From Net: NetName=PTA6 Pin=R13-1
+Removed Pin From Net: NetName=PTE28 Pin=R14-1
+Removed Pin From Net: NetName=PTE26 Pin=R15-1
+Removed Pin From Net: NetName=PTE24 Pin=R16-1
+Removed Pin From Net: NetName=NetR3_1 Pin=U2-8
+Removed Pin From Net: NetName=NetD3_1 Pin=U3-2
+Change Component DesignItemId : Designator=C5 Old DesignItemId=Cap New DesignItemId=Cap Pol1
+Change Component DesignItemId : Designator=C11 Old DesignItemId=Cap New DesignItemId=Cap Pol1
+Change Component DesignItemId : Designator=C12 Old DesignItemId=Cap New DesignItemId=Cap Pol1
+Change Component DesignItemId : Designator=C4 Old DesignItemId=Cap New DesignItemId=Cap Pol3
+Change Component DesignItemId : Designator=C9 Old DesignItemId=Cap Pol1 New DesignItemId=Cap
+Change Component DesignItemId : Designator=C10 Old DesignItemId=Cap Pol1 New DesignItemId=Cap
+Change Component DesignItemId : Designator=C2 Old DesignItemId=Cap Pol1 New DesignItemId=Cap Pol3
+Change Component DesignItemId : Designator=C3 Old DesignItemId=Cap Pol1 New DesignItemId=Cap Semi
+Change Component DesignItemId : Designator=C6 Old DesignItemId=Cap Pol3 New DesignItemId=Cap Pol1
+Change Component DesignItemId : Designator=C8 Old DesignItemId=Cap Pol3 New DesignItemId=Cap Pol1
+Change Component DesignItemId : Designator=C7 Old DesignItemId=Cap Semi New DesignItemId=Cap Pol1
+Change Component DesignItemId : Designator=D3 Old DesignItemId=IN5824 New DesignItemId=LED2
+Change Component DesignItemId : Designator=D2 Old DesignItemId=LED2 New DesignItemId=IN5824
+Change Component DesignItemId : Designator=*6 Old DesignItemId=TPS79333 New DesignItemId=舵机
+Change Component DesignItemId : Designator=*7 Old DesignItemId=摄像头 New DesignItemId=激光
+Change Component DesignItemId : Designator=*4 Old DesignItemId=红外测距 New DesignItemId=摄像头
+Change Component DesignItemId : Designator=*5 Old DesignItemId=舵机 New DesignItemId=红外测距
+Change Component Footprint: Designator=D3 Old Footprint=1N5824 New Footprint=0805LED
+Change Component Footprint: Designator=U1 Old Footprint=74ls244DB New Footprint=74ls244DA
+Change Component Footprint: Designator=C10 Old Footprint=220uf New Footprint=0805
+Change Component Footprint: Designator=C6 Old Footprint=470UF New Footprint=220uf
+Change Component Footprint: Designator=C9 Old Footprint=470uf New Footprint=0805
+Change Component Footprint: Designator=C2 Old Footprint=0805 New Footprint=470UF
+Change Component Footprint: Designator=C5 Old Footprint=0805 New Footprint=470uf
+Change Component Footprint: Designator=R7 Old Footprint=0805 New Footprint=AXIAL-0.4
+Change Component Footprint: Designator=D2 Old Footprint=0805LED New Footprint=1N5824
+Change Component Footprint: Designator=D1 Old Footprint=1206(3216) New Footprint=0805LED
+Change Component Footprint: Designator=*5 Old Footprint=HDR1X3 New Footprint=HDR1X5
+Change Component Footprint: Designator=*4 Old Footprint=HDR1X5 New Footprint=摄像头
+Change Component Footprint: Designator=*6 Old Footprint=TPS7933 New Footprint=HDR1X3
+Change Component Footprint: Designator=*7 Old Footprint=摄像头 New Footprint=HDR1X8
+Change Component Comment : Designator=R2 Old Comment=0.22R New Comment=180R
+Change Component Comment : Designator=R4 Old Comment=1.3K New Comment=100R
+Change Component Comment : Designator=C8 Old Comment=10uF New Comment=Cap Pol1
+Change Component Comment : Designator=R5 Old Comment=100R New Comment=Res2
+Change Component Comment : Designator=R3 Old Comment=180R New Comment=1.3K
+Change Component Comment : Designator=C7 Old Comment=470pF New Comment=Cap Pol1
+Change Component Comment : Designator=C6 Old Comment=470uF New Comment=Cap Pol1
+Change Component Comment : Designator=C4 Old Comment=Cap New Comment=10uF
+Change Component Comment : Designator=C5 Old Comment=Cap New Comment=Cap Pol1
+Change Component Comment : Designator=C11 Old Comment=Cap New Comment=Cap Pol1
+Change Component Comment : Designator=C12 Old Comment=Cap New Comment=Cap Pol1
+Change Component Comment : Designator=C3 Old Comment=Cap Pol1 New Comment=470pF
+Change Component Comment : Designator=C2 Old Comment=Cap Pol1 New Comment=470uF
+Change Component Comment : Designator=C9 Old Comment=Cap Pol1 New Comment=Cap
+Change Component Comment : Designator=C10 Old Comment=Cap Pol1 New Comment=Cap
+Change Component Comment : Designator=D3 Old Comment=IN5824 New Comment=RED
+Change Component Comment : Designator=D2 Old Comment=RED New Comment=IN5824
+Change Component Comment : Designator=R1 Old Comment=Res2 New Comment=0.22R
+Change Component Comment : Designator=*6 Old Comment=TPS79333 New Comment=舵机
+Change Component Comment : Designator=*7 Old Comment=摄像头 New Comment=激光
+Change Component Comment : Designator=*4 Old Comment=红外测距 New Comment=摄像头
+Change Component Comment : Designator=*5 Old Comment=舵机 New Comment=红外测距
+Change Component Description : Designator=C7 Old Description=Capacitor (Semiconductor SIM Model) New Description=Polarized Capacitor (Radial)
+Change Component Description : Designator=C11 Old Description=Capacitor New Description=Polarized Capacitor (Radial)
+Change Component Description : Designator=C12 Old Description=Capacitor New Description=Polarized Capacitor (Radial)
+Change Component Description : Designator=C4 Old Description=Capacitor New Description=Polarized Capacitor (Surface Mount)
+Change Component Description : Designator=C3 Old Description=Polarized Capacitor (Radial) New Description=Capacitor (Semiconductor SIM Model)
+Change Component Description : Designator=C8 Old Description=Polarized Capacitor (Surface Mount) New Description=Polarized Capacitor (Radial)
+Change Component Library : Designator=R5 Old Library=Miscellaneous Devices.IntLib New Library=主控板原理图.SCHLIB
+Change Component Library : Designator=R1 Old Library=主控板原理图.SCHLIB New Library=Miscellaneous Devices.IntLib
+Added Component: Designator=*8(HDR1X5 - duplicate)
+Added Component: Designator=*9(lm1117-5v)
+Added Component: Designator=*11(TPS7933)
+Added Component: Designator=C14(0805)
+Added Component: Designator=C15(0805)
+Added Component: Designator=R17(0805)
+Added Pin To Net: NetName=PTB0 Pin=*4-1
+Added Pin To Net: NetName=PTB1 Pin=*4-2
+Added Pin To Net: NetName=PTB2 Pin=*4-3
+Added Pin To Net: NetName=PTB3 Pin=*4-4
+Added Pin To Net: NetName=PTB4 Pin=*4-5
+Added Pin To Net: NetName=PTB5 Pin=*4-6
+Added Pin To Net: NetName=PTB6 Pin=*4-7
+Added Pin To Net: NetName=PTB7 Pin=*4-8
+Added Pin To Net: NetName=PTA26 Pin=*4-9
+Added Pin To Net: NetName=PTA25 Pin=*4-10
+Added Pin To Net: NetName=GND Pin=*4-11
+Added Pin To Net: NetName=PTA29 Pin=*4-15
+Added Pin To Net: NetName=PTA27 Pin=*4-17
+Added Pin To Net: NetName=5V Pin=*4-20
+Added Pin To Net: NetName=5V Pin=*5-1
+Added Pin To Net: NetName=GND Pin=*5-3
+Added Pin To Net: NetName=GND Pin=*5-4
+Added Pin To Net: NetName=PTE11 Pin=*5-5
+Added Pin To Net: NetName=GND Pin=*6-1
+Added Pin To Net: NetName=PTD0 Pin=*6-3
+Added Pin To Net: NetName=5V Pin=*7-1
+Added Pin To Net: NetName=GND Pin=*7-2
+Added Pin To Net: NetName=GND Pin=*8-1
+Added Pin To Net: NetName=5V Pin=*8-2
+Added Pin To Net: NetName=7V2 Pin=*9-3
+Added Pin To Net: NetName=5V Pin=*11-1
+Added Pin To Net: NetName=GND Pin=*11-2
+Added Pin To Net: NetName=5V Pin=*11-3
+Added Pin To Net: NetName=专属3.3V Pin=*11-5
+Added Pin To Net: NetName=12V Pin=C2-1
+Added Pin To Net: NetName=7V2 Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=7V2 Pin=C5-1
+Added Pin To Net: NetName=GND Pin=C5-2
+Added Pin To Net: NetName=5V Pin=C6-1
+Added Pin To Net: NetName=5V Pin=C7-1
+Added Pin To Net: NetName=3V3 Pin=C8-1
+Added Pin To Net: NetName=GND Pin=C9-1
+Added Pin To Net: NetName=5V Pin=C9-2
+Added Pin To Net: NetName=GND Pin=C10-1
+Added Pin To Net: NetName=3V3 Pin=C10-2
+Added Pin To Net: NetName=7V2 Pin=C11-1
+Added Pin To Net: NetName=GND Pin=C11-2
+Added Pin To Net: NetName=GND Pin=C12-2
+Added Pin To Net: NetName=专属3.3V Pin=C13-2
+Added Pin To Net: NetName=GND Pin=C14-1
+Added Pin To Net: NetName=5V Pin=C14-2
+Added Pin To Net: NetName=GND Pin=C15-1
+Added Pin To Net: NetName=NetD2_1 Pin=L2-1
+Added Pin To Net: NetName=NetL1_1 Pin=R1-1
+Added Pin To Net: NetName=7V2 Pin=R1-2
+Added Pin To Net: NetName=NetL1_1 Pin=R2-2
+Added Pin To Net: NetName=12V Pin=R3-2
+Added Pin To Net: NetName=NetR3_1 Pin=R4-1
+Added Pin To Net: NetName=GND Pin=R4-2
+Added Pin To Net: NetName=PTD3 Pin=R5-1
+Added Pin To Net: NetName=NetQ1_2 Pin=R5-2
+Added Pin To Net: NetName=NetD3_1 Pin=R6-1
+Added Pin To Net: NetName=PTC1 Pin=R8-1
+Added Pin To Net: NetName=PTC3 Pin=R9-1
+Added Pin To Net: NetName=PTC5 Pin=R10-1
+Added Pin To Net: NetName=PTC7 Pin=R11-1
+Added Pin To Net: NetName=PTC9 Pin=R12-1
+Added Pin To Net: NetName=PTC11 Pin=R13-1
+Added Pin To Net: NetName=PTA6 Pin=R14-1
+Added Pin To Net: NetName=PTE28 Pin=R15-1
+Added Pin To Net: NetName=PTE26 Pin=R16-1
+Added Pin To Net: NetName=PTE24 Pin=R17-1
+Added Pin To Net: NetName=3V3 Pin=R17-2
+Added Pin To Net: NetName=NetR3_1 Pin=U2-5
+Added Pin To Net: NetName=NetD2_1 Pin=U3-2
+Added Pin To Net: NetName=Net*9_1 Pin=*9-1
+Added Pin To Net: NetName=Net*9_1 Pin=R7-2
+Added Net: Name=Net*9_1
+Added Pin To Net: NetName=Net*11_4 Pin=*11-4
+Added Pin To Net: NetName=Net*11_4 Pin=C15-2
+Added Net: Name=Net*11_4
+Added Pin To Net: NetName=NetC3_1 Pin=C3-1
+Added Pin To Net: NetName=NetC3_1 Pin=U2-3
+Added Net: Name=NetC3_1
+Added Pin To Net: NetName=NetR2_1 Pin=R2-1
+Added Pin To Net: NetName=NetR2_1 Pin=U2-8
+Added Net: Name=NetR2_1
+Added Pin To Net: NetName=PTA14 Pin=*8-3
+Added Pin To Net: NetName=PTA14 Pin=K1-77
+Added Net: Name=PTA14
+Added Pin To Net: NetName=PTA16 Pin=*8-4
+Added Pin To Net: NetName=PTA16 Pin=K1-79
+Added Net: Name=PTA16
+Added Pin To Net: NetName=PTA17 Pin=*8-5
+Added Pin To Net: NetName=PTA17 Pin=K1-80
+Added Net: Name=PTA17
+Added Pin To Net: NetName=PTC6 Pin=*7-3
+Added Pin To Net: NetName=PTC6 Pin=K1-2
+Added Net: Name=PTC6
+Added Pin To Net: NetName=PTC8 Pin=*7-4
+Added Pin To Net: NetName=PTC8 Pin=K1-4
+Added Net: Name=PTC8
+Added Pin To Net: NetName=PTC10 Pin=*7-5
+Added Pin To Net: NetName=PTC10 Pin=K1-6
+Added Net: Name=PTC10
+Added Pin To Net: NetName=PTC12 Pin=*7-6
+Added Pin To Net: NetName=PTC12 Pin=K1-8
+Added Net: Name=PTC12
+Added Pin To Net: NetName=PTC14 Pin=*7-7
+Added Pin To Net: NetName=PTC14 Pin=K1-10
+Added Net: Name=PTC14
+Added Pin To Net: NetName=PTC16 Pin=*7-8
+Added Pin To Net: NetName=PTC16 Pin=K1-12
+Added Net: Name=PTC16
+Added Pin To Net: NetName=专属6V Pin=*6-2
+Added Pin To Net: NetName=专属6V Pin=*9-2
+Added Pin To Net: NetName=专属6V Pin=*9-4
+Added Pin To Net: NetName=专属6V Pin=C12-1
+Added Pin To Net: NetName=专属6V Pin=R7-1
+Added Net: Name=专属6V
+Added Member To Class: ClassName=DS_zk Member=Component *8 SD卡
+Added Member To Class: ClassName=DS_zk Member=Component *9 AMS1117-adj
+Added Member To Class: ClassName=DS_zk Member=Component *11 TPS79333
+Added Member To Class: ClassName=DS_zk Member=Component C14 Cap
+Added Member To Class: ClassName=DS_zk Member=Component C15 Cap
+Added Member To Class: ClassName=DS_zk Member=Component R17 Res2
+Added Room: Name=DS_zk

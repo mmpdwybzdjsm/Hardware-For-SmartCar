@@ -1,0 +1,13 @@
+Added Component: Designator=*7(HDR1X3)
+Added Component: Designator=*(HDR1X4)
+Added Pin To Net: NetName=GND Pin=*7-1
+Added Pin To Net: NetName=PTC2 Pin=*7-3
+Added Pin To Net: NetName=5V Pin=*-1
+Added Pin To Net: NetName=GND Pin=*-2
+Added Pin To Net: NetName=PTE1 Pin=*-3
+Added Pin To Net: NetName=PTE0 Pin=*-4
+Added Pin To Net: NetName=6V Pin=*7-2
+Added Net: Name=6V
+Added Member To Class: ClassName=20180616 Member=Component *7 DJ
+Added Member To Class: ClassName=20180616 Member=Component * 6050
+Added Room: Name=20180616

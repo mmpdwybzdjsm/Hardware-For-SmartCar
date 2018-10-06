@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=PTC10 Pin=R9-1
+Removed Pin From Net: NetName=PTD7 Pin=R10-1
+Removed Pin From Net: NetName=PTC10 Pin=S5-2
+Removed Pin From Net: NetName=PTD7 Pin=S6-2
+Added Pin To Net: NetName=PTD11 Pin=R9-1
+Added Pin To Net: NetName=PTD2 Pin=R10-1
+Added Pin To Net: NetName=PTD11 Pin=S5-2
+Added Pin To Net: NetName=PTD2 Pin=S6-2
+Added Room: Name=ai

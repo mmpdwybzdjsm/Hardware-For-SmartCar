@@ -1,0 +1,8 @@
+Change Component Designator: OldDesignator= NewDesignator=µç³ØµçÑ¹ÏÔÊ¾1
+Change Component Designator: OldDesignator= NewDesignator=±àÂëÆ÷1
+Change Component Designator: OldDesignator= NewDesignator=±àÂëÆ÷2
+Change Component Designator: OldDesignator=7933 NewDesignator=*11
+Change Component Designator: OldDesignator=JG NewDesignator=*7
+Added Member To Class: ClassName=DS_zk Member=Component ±àÂëÆ÷1 encode_1
+Added Member To Class: ClassName=DS_zk Member=Component ±àÂëÆ÷2 encode_2
+Added Room: Name=DS_zk

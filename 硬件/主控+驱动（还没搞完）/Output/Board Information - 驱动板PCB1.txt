@@ -1,0 +1,35 @@
+Board Information Report
+Filename     : C:\Users\11212\Desktop\Ö÷¿Ø+Çý¶¯\Çý¶¯°åPCB1.PcbDoc
+Date         : 2018/9/25
+Time         : 16:37:46
+Time Elapsed : 00:00:00
+
+General
+    Board Size, 3130milsx1155mils
+    Components on board, 58
+count : 2
+
+Routing Information
+    Routing completion, 100.00%
+    Connections, 134
+    Connections routed, 134
+    Connections remaining, 0
+count : 4
+
+Layer, Arcs, Pads, Vias, Tracks, Texts, Fills, Regions, ComponentBodies
+    Top Layer, 0, 118, 0, 470, 0, 0, 0, 0
+    Bottom Layer, 0, 44, 0, 264, 0, 0, 0, 0
+    Mechanical 1, 1, 0, 0, 0, 0, 0, 0, 0
+    Mechanical 13, 6, 0, 0, 24, 0, 0, 0, 6
+    Mechanical 15, 0, 0, 0, 86, 0, 0, 0, 0
+    Top Overlay, 19, 0, 0, 275, 96, 5, 0, 0
+    Bottom Overlay, 4, 0, 0, 55, 20, 1, 0, 0
+    Top Paste, 0, 0, 0, 0, 0, 0, 0, 0
+    Bottom Paste, 0, 0, 0, 0, 0, 0, 0, 0
+    Top Solder, 0, 0, 0, 0, 0, 0, 0, 0
+    Bottom Solder, 0, 0, 0, 0, 0, 0, 0, 0
+    Drill Guide, 0, 0, 0, 0, 0, 0, 0, 0
+    Keep-Out Layer, 0, 0, 0, 7, 0, 0, 0, 0
+    Drill Drawing, 0, 0, 0, 0, 0, 0, 0, 0
+    Multi-Layer, 0, 14, 190, 0, 0, 0, 0, 0
+count : 15

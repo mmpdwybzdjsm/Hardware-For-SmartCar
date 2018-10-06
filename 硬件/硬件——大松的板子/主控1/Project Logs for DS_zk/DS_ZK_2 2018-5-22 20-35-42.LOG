@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=PTB21 Pin=R22-2
+Added Pin To Net: NetName=PTE26 Pin=*2-47
+Added Pin To Net: NetName=PTE26 Pin=R22-2
+Added Net: Name=PTE26
+Added Pin To Net: NetName=PTE27 Pin=*2-48
+Added Pin To Net: NetName=PTE27 Pin=R20-2
+Added Net: Name=PTE27
+Added Room: Name=DS_ZK_FINAL

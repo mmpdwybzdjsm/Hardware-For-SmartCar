@@ -1,0 +1,4 @@
+Added Component: Designator=S1(SWITCH-MID)
+Added Pin To Net: NetName=NetCON1_1 Pin=S1-1
+Added Pin To Net: NetName=7V2 Pin=S1-2
+Added Room: Name=20180616

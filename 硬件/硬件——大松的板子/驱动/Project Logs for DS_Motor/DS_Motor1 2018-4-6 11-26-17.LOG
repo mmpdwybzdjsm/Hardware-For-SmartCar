@@ -1,0 +1,32 @@
+Change Component Footprint: Designator=S1 Old Footprint=big_switch New Footprint=SWITCH-MID
+Change Component Comment : Designator=S1 Old Comment=SW-SPST New Comment=motor
+Change Component Designator: OldDesignator=D10 NewDesignator=D11
+Change Component Designator: OldDesignator=D11 NewDesignator=D12
+Change Component Designator: OldDesignator=D12 NewDesignator=D13
+Change Component Designator: OldDesignator=D13 NewDesignator=D14
+Change Component Designator: OldDesignator=R7 NewDesignator=R8
+Change Component Designator: OldDesignator=R8 NewDesignator=R9
+Change Component Designator: OldDesignator=R9 NewDesignator=R10
+Added Component: Designator=CON2(KF301-2P)
+Added Component: Designator=D10(0805LED)
+Added Component: Designator=R7(0805)
+Added Component: Designator=S2(SWITCH-MID)
+Added Pin To Net: NetName=GND Pin=CON2-1
+Added Pin To Net: NetName=GND Pin=D10-2
+Change Net Name : Old Net Name=NetR7_1 New Net Name=NetR8_1
+Change Net Name : Old Net Name=NetR8_1 New Net Name=NetR9_1
+Change Net Name : Old Net Name=NetR9_1 New Net Name=NetR10_1
+Added Pin To Net: NetName=NetCON2_2 Pin=CON2-2
+Added Pin To Net: NetName=NetCON2_2 Pin=S2-1
+Added Net: Name=NetCON2_2
+Added Pin To Net: NetName=NetD10_1 Pin=D10-1
+Added Pin To Net: NetName=NetD10_1 Pin=R7-1
+Added Net: Name=NetD10_1
+Added Pin To Net: NetName=ZK_VCC Pin=R7-2
+Added Pin To Net: NetName=ZK_VCC Pin=S2-2
+Added Net: Name=ZK_VCC
+Added Member To Class: ClassName=DS_Motor Member=Component CON2 PowerIn
+Added Member To Class: ClassName=DS_Motor Member=Component D14 IN5819
+Added Member To Class: ClassName=DS_Motor Member=Component R10 20R
+Added Member To Class: ClassName=DS_Motor Member=Component S2 zk
+Added Room: Name=DS_Motor

@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=12V Pin=P2-5
+Added Component: Designator=S1(switch)
+Added Pin To Net: NetName=12V Pin=S1-1
+Added Pin To Net: NetName=NetP2_5 Pin=P2-5
+Added Pin To Net: NetName=NetP2_5 Pin=S1-2
+Added Net: Name=NetP2_5
+Added Member To Class: ClassName=DS_Motor Member=Component S1 SW-SPST
+Added Room: Name=DS_Motor

@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=GND Pin=CON1-1
+Added Component: Designator=CON2(DIZUO)
+Added Component: Designator=S1(SWITCH-MID)
+Added Component: Designator=S2(SWITCH-MID)
+Added Pin To Net: NetName=GND Pin=CON1-2
+Added Pin To Net: NetName=GND Pin=CON2-2
+Added Pin To Net: NetName=VBAT Pin=S1-2
+Added Pin To Net: NetName=ZK_VCC Pin=S2-2
+Added Pin To Net: NetName=NetCON1_1 Pin=CON1-1
+Added Pin To Net: NetName=NetCON1_1 Pin=S1-1
+Added Net: Name=NetCON1_1
+Added Pin To Net: NetName=NetCON2_1 Pin=CON2-1
+Added Pin To Net: NetName=NetCON2_1 Pin=S2-1
+Added Net: Name=NetCON2_1
+Added Member To Class: ClassName=DS_Motor Member=Component CON2 PowerIn
+Added Member To Class: ClassName=DS_Motor Member=Component S1 motor
+Added Member To Class: ClassName=DS_Motor Member=Component S2 zk
+Added Room: Name=DS_Motor

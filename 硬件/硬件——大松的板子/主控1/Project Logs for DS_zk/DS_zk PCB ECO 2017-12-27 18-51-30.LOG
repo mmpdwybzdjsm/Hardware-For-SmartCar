@@ -1,0 +1,7 @@
+Change Component Footprint: Designator=R7 Old Footprint=AXIAL-0.4 New Footprint=0805
+Added Component: Designator=*10(HDR1X3)
+Added Pin To Net: NetName=GND Pin=*10-1
+Added Pin To Net: NetName=Net*9_1 Pin=*10-2
+Added Pin To Net: NetName=GND Pin=*10-3
+Added Member To Class: ClassName=DS_zk Member=Component *10 µçÎ»Æ÷
+Added Room: Name=DS_zk

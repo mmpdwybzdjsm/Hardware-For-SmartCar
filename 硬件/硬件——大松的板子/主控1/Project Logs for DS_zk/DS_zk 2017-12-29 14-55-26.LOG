@@ -1,0 +1,20 @@
+Change Component Designator: OldDesignator=TLY NewDesignator=*8
+Added Pin To Net: NetName=PTA5 Pin=R12-1
+Added Pin To Net: NetName=PTA5 Pin=S6-2
+Added Net: Name=PTA5
+Added Pin To Net: NetName=PTA7 Pin=R8-1
+Added Pin To Net: NetName=PTA7 Pin=S2-2
+Added Net: Name=PTA7
+Added Pin To Net: NetName=PTA8 Pin=R7-1
+Added Pin To Net: NetName=PTA8 Pin=S1-2
+Added Net: Name=PTA8
+Added Pin To Net: NetName=PTA9 Pin=R10-1
+Added Pin To Net: NetName=PTA9 Pin=S4-2
+Added Net: Name=PTA9
+Added Pin To Net: NetName=PTE25 Pin=R11-1
+Added Pin To Net: NetName=PTE25 Pin=S5-2
+Added Net: Name=PTE25
+Added Pin To Net: NetName=PTE27 Pin=R9-1
+Added Pin To Net: NetName=PTE27 Pin=S3-2
+Added Net: Name=PTE27
+Added Room: Name=DS_zk

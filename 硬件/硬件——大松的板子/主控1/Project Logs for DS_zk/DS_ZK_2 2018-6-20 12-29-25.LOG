@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=C26 Old Footprint=0603 New Footprint=0805
+Change Component Footprint: Designator=C61 Old Footprint=0603 New Footprint=0805
+Change Component Footprint: Designator=R32 Old Footprint=0603 New Footprint=0805
+Change Component Footprint: Designator=R49 Old Footprint=0603 New Footprint=0805
+Added Room: Name=DS_ZK_FINAL

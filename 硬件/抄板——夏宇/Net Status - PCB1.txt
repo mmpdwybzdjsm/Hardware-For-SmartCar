@@ -1,0 +1,36 @@
+Net Status Report
+Filename     : C:\Users\11212\Desktop\ÏÄÓîµÄÇý¶¯\PCB1.PcbDoc
+Date         : 2018/9/16
+Time         : 11:22:44
+Time Elapsed : 00:00:00
+
+Nets, Layer, Length
+    12V, Signal Layers Only, 3426.686mils
+    5V, Signal Layers Only, 789.079mils
+    GND, Signal Layers Only, 0mils
+    MOTOR1 IN1, Signal Layers Only, 648.905mils
+    MOTOR1 IN2, Signal Layers Only, 1880.398mils
+    NetB2_1, Signal Layers Only, 3088.719mils
+    NetB2_2, Signal Layers Only, 2086.598mils
+    NetC11_2, Signal Layers Only, 925.416mils
+    NetC4_1, Signal Layers Only, 209.026mils
+    NetC9_2, Signal Layers Only, 0mils
+    NetD14_1, Signal Layers Only, 103mils
+    NetD3_1, Signal Layers Only, 617.015mils
+    NetH1_2, Signal Layers Only, 666.898mils
+    NetL1_1, Signal Layers Only, 1460.658mils
+    NetP1_3, Signal Layers Only, 204.196mils
+    NetP1_4, Signal Layers Only, 205.174mils
+    NetQ5_1, Signal Layers Only, 126.504mils
+    NetQ6_1, Signal Layers Only, 99.698mils
+    NetQ7_1, Signal Layers Only, 158.406mils
+    NetQ8_1, Signal Layers Only, 113.032mils
+    NetR11_1, Signal Layers Only, 553.624mils
+    NetR12_1, Signal Layers Only, 204.488mils
+    NetR16_1, Signal Layers Only, 607.705mils
+    NetR17_1, Signal Layers Only, 242.847mils
+    NetR4_1, Signal Layers Only, 238.02mils
+    NetR7_2, Signal Layers Only, 610.888mils
+    VBAT, Signal Layers Only, 5476.215mils
+    VCC, Signal Layers Only, 0mils
+count : 28

@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=C4 Old Footprint=0805(2012) New Footprint=0805LED
+Change Component Footprint: Designator=C8 Old Footprint=0805(2012) New Footprint=0805LED
+Change Component Footprint: Designator=C10 Old Footprint=0805(2012) New Footprint=0805LED
+Change Component Footprint: Designator=C12 Old Footprint=0805(2012) New Footprint=0805LED
+Added Room: Name=DS_Motor

@@ -1,0 +1,18 @@
+Change Component Designator: OldDesignator=* NewDesignator=*5
+Change Component Designator: OldDesignator=C4 NewDesignator=C8
+Change Component Designator: OldDesignator=C5 NewDesignator=C4
+Change Component Designator: OldDesignator=C6 NewDesignator=C5
+Change Component Designator: OldDesignator=C7 NewDesignator=C6
+Change Component Designator: OldDesignator=C8 NewDesignator=C7
+Change Component Designator: OldDesignator=U2 NewDesignator=U4
+Change Component Designator: OldDesignator=U3 NewDesignator=U2
+Change Component Designator: OldDesignator=U4 NewDesignator=U3
+Added Component: Designator=*4(HDR1X5)
+Added Pin To Net: NetName=5V Pin=*4-1
+Added Pin To Net: NetName=5V Pin=*4-2
+Added Pin To Net: NetName=GND Pin=*4-3
+Added Pin To Net: NetName=GND Pin=*4-4
+Added Pin To Net: NetName=PTE11 Pin=*4-5
+Added Pin To Net: NetName=PTE11 Pin=K1-44
+Added Net: Name=PTE11
+Added Member To Class: ClassName=DS_zk Member=Component *4 ∫ÏÕ‚≤‚æ‡

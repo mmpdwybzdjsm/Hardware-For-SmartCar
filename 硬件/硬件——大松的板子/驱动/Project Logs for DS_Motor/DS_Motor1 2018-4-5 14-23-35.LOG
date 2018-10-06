@@ -1,0 +1,192 @@
+Added Component: Designator=*1(lm1117-5v)
+Added Component: Designator=*2(HDR1X3)
+Added Component: Designator=B1(KF301-2P)
+Added Component: Designator=B2(KF301-2P)
+Added Component: Designator=C2(0805LED)
+Added Component: Designator=C4(0805LED)
+Added Component: Designator=C6(0805LED)
+Added Component: Designator=C8(0805LED)
+Added Component: Designator=C9(0805)
+Added Component: Designator=C10(0805)
+Added Component: Designator=CON1(KF301-2P)
+Added Component: Designator=D1(0805LED)
+Added Component: Designator=D2(0805LED)
+Added Component: Designator=D3(0805LED)
+Added Component: Designator=D4(0805LED)
+Added Component: Designator=D5(0805LED)
+Added Component: Designator=D6(0805LED)
+Added Component: Designator=D7(1206C)
+Added Component: Designator=D8(0805LED)
+Added Component: Designator=D9(0805LED)
+Added Component: Designator=D10(0805LED)
+Added Component: Designator=D11(0805LED)
+Added Component: Designator=D12(0805LED)
+Added Component: Designator=D13(0805LED)
+Added Component: Designator=P1(HDR1X6)
+Added Component: Designator=Q1(LR7843)
+Added Component: Designator=Q2(LR7843)
+Added Component: Designator=Q3(LR7843)
+Added Component: Designator=Q4(LR7843)
+Added Component: Designator=Q5(LR7843)
+Added Component: Designator=Q6(LR7843)
+Added Component: Designator=Q7(LR7843)
+Added Component: Designator=Q8(LR7843)
+Added Component: Designator=R10(0805)
+Added Component: Designator=U1(IR2104S)
+Added Component: Designator=U2(IR2104S)
+Added Component: Designator=U3(IR2104S)
+Added Component: Designator=U4(IR2104S)
+Added Pin To Net: NetName=Net*1_1 Pin=*1-1
+Added Pin To Net: NetName=专属6V Pin=*1-2
+Added Pin To Net: NetName=专属6V Pin=*1-2
+Added Pin To Net: NetName=7V2 Pin=*1-3
+Added Pin To Net: NetName=GND Pin=*2-1
+Added Pin To Net: NetName=Net*1_1 Pin=*2-2
+Added Pin To Net: NetName=GND Pin=*2-3
+Added Pin To Net: NetName=NetB1_1 Pin=B1-1
+Added Pin To Net: NetName=NetB1_2 Pin=B1-2
+Added Pin To Net: NetName=NetB2_1 Pin=B2-1
+Added Pin To Net: NetName=NetB2_2 Pin=B2-2
+Added Pin To Net: NetName=12V Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=12V Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=12V Pin=C6-1
+Added Pin To Net: NetName=GND Pin=C6-2
+Added Pin To Net: NetName=12V Pin=C8-1
+Added Pin To Net: NetName=GND Pin=C8-2
+Added Pin To Net: NetName=7V2 Pin=C9-1
+Added Pin To Net: NetName=GND Pin=C9-2
+Added Pin To Net: NetName=专属6V Pin=C10-1
+Added Pin To Net: NetName=GND Pin=C10-2
+Added Pin To Net: NetName=GND Pin=CON1-1
+Added Pin To Net: NetName=NetCON1_2 Pin=CON1-2
+Added Pin To Net: NetName=12V Pin=D1-1
+Added Pin To Net: NetName=NetC1_1 Pin=D1-2
+Added Pin To Net: NetName=NetB1_1 Pin=D2-1
+Added Pin To Net: NetName=VBAT Pin=D2-2
+Added Pin To Net: NetName=GND Pin=D3-1
+Added Pin To Net: NetName=NetB1_1 Pin=D3-2
+Added Pin To Net: NetName=12V Pin=D4-1
+Added Pin To Net: NetName=NetC3_1 Pin=D4-2
+Added Pin To Net: NetName=NetB1_2 Pin=D5-1
+Added Pin To Net: NetName=VBAT Pin=D5-2
+Added Pin To Net: NetName=GND Pin=D6-1
+Added Pin To Net: NetName=NetB1_2 Pin=D6-2
+Added Pin To Net: NetName=NetD7_1 Pin=D7-1
+Added Pin To Net: NetName=GND Pin=D7-2
+Added Pin To Net: NetName=12V Pin=D8-1
+Added Pin To Net: NetName=NetC5_1 Pin=D8-2
+Added Pin To Net: NetName=NetB2_1 Pin=D9-1
+Added Pin To Net: NetName=VBAT Pin=D9-2
+Added Pin To Net: NetName=GND Pin=D10-1
+Added Pin To Net: NetName=NetB2_1 Pin=D10-2
+Added Pin To Net: NetName=12V Pin=D11-1
+Added Pin To Net: NetName=NetC7_1 Pin=D11-2
+Added Pin To Net: NetName=NetB2_2 Pin=D12-1
+Added Pin To Net: NetName=VBAT Pin=D12-2
+Added Pin To Net: NetName=GND Pin=D13-1
+Added Pin To Net: NetName=NetB2_2 Pin=D13-2
+Added Pin To Net: NetName=MOTOR1 IN1 Pin=P1-1
+Added Pin To Net: NetName=MOTOR1 IN2 Pin=P1-2
+Added Pin To Net: NetName=MOTOR1 IN4 Pin=P1-3
+Added Pin To Net: NetName=MOTOR1 IN3 Pin=P1-4
+Added Pin To Net: NetName=12V Pin=P1-5
+Added Pin To Net: NetName=GND Pin=P1-6
+Added Pin To Net: NetName=NetQ1_1 Pin=Q1-1
+Added Pin To Net: NetName=VBAT Pin=Q1-2
+Added Pin To Net: NetName=NetB1_1 Pin=Q1-3
+Added Pin To Net: NetName=NetQ2_1 Pin=Q2-1
+Added Pin To Net: NetName=NetB1_1 Pin=Q2-2
+Added Pin To Net: NetName=GND Pin=Q2-3
+Added Pin To Net: NetName=NetQ3_1 Pin=Q3-1
+Added Pin To Net: NetName=VBAT Pin=Q3-2
+Added Pin To Net: NetName=NetB1_2 Pin=Q3-3
+Added Pin To Net: NetName=NetQ4_1 Pin=Q4-1
+Added Pin To Net: NetName=NetB1_2 Pin=Q4-2
+Added Pin To Net: NetName=GND Pin=Q4-3
+Added Pin To Net: NetName=NetQ5_1 Pin=Q5-1
+Added Pin To Net: NetName=VBAT Pin=Q5-2
+Added Pin To Net: NetName=NetB2_1 Pin=Q5-3
+Added Pin To Net: NetName=NetQ6_1 Pin=Q6-1
+Added Pin To Net: NetName=NetB2_1 Pin=Q6-2
+Added Pin To Net: NetName=GND Pin=Q6-3
+Added Pin To Net: NetName=NetQ7_1 Pin=Q7-1
+Added Pin To Net: NetName=VBAT Pin=Q7-2
+Added Pin To Net: NetName=NetB2_2 Pin=Q7-3
+Added Pin To Net: NetName=NetQ8_1 Pin=Q8-1
+Added Pin To Net: NetName=NetB2_2 Pin=Q8-2
+Added Pin To Net: NetName=GND Pin=Q8-3
+Added Pin To Net: NetName=专属6V Pin=R10-1
+Added Pin To Net: NetName=Net*1_1 Pin=R10-2
+Added Pin To Net: NetName=12V Pin=U1-1
+Added Pin To Net: NetName=MOTOR1 IN4 Pin=U1-2
+Added Pin To Net: NetName=12V Pin=U1-3
+Added Pin To Net: NetName=GND Pin=U1-4
+Added Pin To Net: NetName=NetR2_1 Pin=U1-5
+Added Pin To Net: NetName=NetB1_1 Pin=U1-6
+Added Pin To Net: NetName=NetR1_1 Pin=U1-7
+Added Pin To Net: NetName=NetC1_1 Pin=U1-8
+Added Pin To Net: NetName=12V Pin=U2-1
+Added Pin To Net: NetName=MOTOR1 IN3 Pin=U2-2
+Added Pin To Net: NetName=12V Pin=U2-3
+Added Pin To Net: NetName=GND Pin=U2-4
+Added Pin To Net: NetName=NetR4_1 Pin=U2-5
+Added Pin To Net: NetName=NetB1_2 Pin=U2-6
+Added Pin To Net: NetName=NetR3_1 Pin=U2-7
+Added Pin To Net: NetName=NetC3_1 Pin=U2-8
+Added Pin To Net: NetName=12V Pin=U3-1
+Added Pin To Net: NetName=MOTOR1 IN1 Pin=U3-2
+Added Pin To Net: NetName=12V Pin=U3-3
+Added Pin To Net: NetName=GND Pin=U3-4
+Added Pin To Net: NetName=NetR7_1 Pin=U3-5
+Added Pin To Net: NetName=NetB2_1 Pin=U3-6
+Added Pin To Net: NetName=NetR6_1 Pin=U3-7
+Added Pin To Net: NetName=NetC5_1 Pin=U3-8
+Added Pin To Net: NetName=12V Pin=U4-1
+Added Pin To Net: NetName=MOTOR1 IN2 Pin=U4-2
+Added Pin To Net: NetName=12V Pin=U4-3
+Added Pin To Net: NetName=GND Pin=U4-4
+Added Pin To Net: NetName=NetR9_1 Pin=U4-5
+Added Pin To Net: NetName=NetB2_2 Pin=U4-6
+Added Pin To Net: NetName=NetR8_1 Pin=U4-7
+Added Pin To Net: NetName=NetC7_1 Pin=U4-8
+Added Member To Class: ClassName=DS_Motor Member=Component *1 AMS1117-adj
+Added Member To Class: ClassName=DS_Motor Member=Component *2 电位器
+Added Member To Class: ClassName=DS_Motor Member=Component B1 Motor
+Added Member To Class: ClassName=DS_Motor Member=Component B2 Motor
+Added Member To Class: ClassName=DS_Motor Member=Component C2 10uF
+Added Member To Class: ClassName=DS_Motor Member=Component C4 10uF
+Added Member To Class: ClassName=DS_Motor Member=Component C6 10uF
+Added Member To Class: ClassName=DS_Motor Member=Component C8 10uF
+Added Member To Class: ClassName=DS_Motor Member=Component C9 Cap Pol1
+Added Member To Class: ClassName=DS_Motor Member=Component C10 Cap Pol1
+Added Member To Class: ClassName=DS_Motor Member=Component CON1 PoweIn
+Added Member To Class: ClassName=DS_Motor Member=Component D1 IN5819
+Added Member To Class: ClassName=DS_Motor Member=Component D2 IN5819
+Added Member To Class: ClassName=DS_Motor Member=Component D3 IN5819
+Added Member To Class: ClassName=DS_Motor Member=Component D4 IN5819
+Added Member To Class: ClassName=DS_Motor Member=Component D5 IN5819
+Added Member To Class: ClassName=DS_Motor Member=Component D6 IN5819
+Added Member To Class: ClassName=DS_Motor Member=Component D7 LED0
+Added Member To Class: ClassName=DS_Motor Member=Component D8 IN5819
+Added Member To Class: ClassName=DS_Motor Member=Component D9 IN5819
+Added Member To Class: ClassName=DS_Motor Member=Component D10 IN5819
+Added Member To Class: ClassName=DS_Motor Member=Component D11 IN5819
+Added Member To Class: ClassName=DS_Motor Member=Component D12 IN5819
+Added Member To Class: ClassName=DS_Motor Member=Component D13 IN5819
+Added Member To Class: ClassName=DS_Motor Member=Component P1 Motor
+Added Member To Class: ClassName=DS_Motor Member=Component Q1 LR7843
+Added Member To Class: ClassName=DS_Motor Member=Component Q2 LR7843
+Added Member To Class: ClassName=DS_Motor Member=Component Q3 LR7843
+Added Member To Class: ClassName=DS_Motor Member=Component Q4 LR7843
+Added Member To Class: ClassName=DS_Motor Member=Component Q5 LR7843
+Added Member To Class: ClassName=DS_Motor Member=Component Q6 LR7843
+Added Member To Class: ClassName=DS_Motor Member=Component Q7 LR7843
+Added Member To Class: ClassName=DS_Motor Member=Component Q8 LR7843
+Added Member To Class: ClassName=DS_Motor Member=Component R10 Res2
+Added Member To Class: ClassName=DS_Motor Member=Component U1 IR2104S
+Added Member To Class: ClassName=DS_Motor Member=Component U2 IR2104S
+Added Member To Class: ClassName=DS_Motor Member=Component U3 IR2104S
+Added Member To Class: ClassName=DS_Motor Member=Component U4 IR2104S
+Added Room: Name=DS_Motor

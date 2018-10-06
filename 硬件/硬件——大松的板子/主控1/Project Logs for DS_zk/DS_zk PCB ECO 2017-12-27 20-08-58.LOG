@@ -1,0 +1,31 @@
+Added Component: Designator=*7(HDR1X8)
+Added Component: Designator=S1(BUTTON)
+Added Component: Designator=S2(BUTTON)
+Added Component: Designator=S3(BUTTON)
+Added Component: Designator=S4(BUTTON)
+Added Component: Designator=S5(BUTTON)
+Added Pin To Net: NetName=5V Pin=*7-1
+Added Pin To Net: NetName=GND Pin=*7-2
+Added Pin To Net: NetName=PTC7 Pin=*7-3
+Added Pin To Net: NetName=PTC9 Pin=*7-4
+Added Pin To Net: NetName=PTC11 Pin=*7-5
+Added Pin To Net: NetName=PTC12 Pin=*7-6
+Added Pin To Net: NetName=PTC14 Pin=*7-7
+Added Pin To Net: NetName=PTC16 Pin=*7-8
+Added Pin To Net: NetName=GND Pin=S1-1
+Added Pin To Net: NetName=PTC1 Pin=S1-2
+Added Pin To Net: NetName=GND Pin=S2-1
+Added Pin To Net: NetName=PTC3 Pin=S2-2
+Added Pin To Net: NetName=GND Pin=S3-1
+Added Pin To Net: NetName=PTC5 Pin=S3-2
+Added Pin To Net: NetName=GND Pin=S4-1
+Added Pin To Net: NetName=PTC6 Pin=S4-2
+Added Pin To Net: NetName=GND Pin=S5-1
+Added Pin To Net: NetName=PTC8 Pin=S5-2
+Added Member To Class: ClassName=DS_zk Member=Component *7 JG
+Added Member To Class: ClassName=DS_zk Member=Component S1 SW-PB
+Added Member To Class: ClassName=DS_zk Member=Component S2 SW-PB
+Added Member To Class: ClassName=DS_zk Member=Component S3 SW-PB
+Added Member To Class: ClassName=DS_zk Member=Component S4 SW-PB
+Added Member To Class: ClassName=DS_zk Member=Component S5 SW-PB
+Added Room: Name=DS_zk

@@ -1,0 +1,1044 @@
+Protel Design System Design Rule Check
+PCB File : E:\ProjectFile\ADFile\เห\ai.PcbDoc
+Date     : 2018/6/2
+Time     : 17:23:16
+
+ERROR : More than 500 violations detected, DRC was stopped
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad CON1-1(6171mil,2448mil)  Multi-Layer
+   Violation between Polygon Region (356 hole(s)) Bottom Layer and 
+                     Pad CON1-1(6171mil,2448mil)  Multi-Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad *1-1(3459mil,4146mil)  Multi-Layer
+   Violation between Polygon Region (356 hole(s)) Bottom Layer and 
+                     Pad *1-1(3459mil,4146mil)  Multi-Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad *1-20(3459mil,4046mil)  Multi-Layer
+   Violation between Polygon Region (356 hole(s)) Bottom Layer and 
+                     Pad *1-20(3459mil,4046mil)  Multi-Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad *1-2(3359mil,4146mil)  Multi-Layer
+   Violation between Polygon Region (356 hole(s)) Bottom Layer and 
+                     Pad *1-2(3359mil,4146mil)  Multi-Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad *1-19(3359mil,4046mil)  Multi-Layer
+   Violation between Polygon Region (356 hole(s)) Bottom Layer and 
+                     Pad *1-19(3359mil,4046mil)  Multi-Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad *1-3(3259mil,4146mil)  Multi-Layer
+   Violation between Polygon Region (356 hole(s)) Bottom Layer and 
+                     Pad *1-3(3259mil,4146mil)  Multi-Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad *1-18(3259mil,4046mil)  Multi-Layer
+   Violation between Polygon Region (356 hole(s)) Bottom Layer and 
+                     Pad *1-18(3259mil,4046mil)  Multi-Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad *1-4(3159mil,4146mil)  Multi-Layer
+   Violation between Polygon Region (356 hole(s)) Bottom Layer and 
+                     Pad *1-4(3159mil,4146mil)  Multi-Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad *1-17(3159mil,4046mil)  Multi-Layer
+   Violation between Polygon Region (356 hole(s)) Bottom Layer and 
+                     Pad *1-17(3159mil,4046mil)  Multi-Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad *1-5(3059mil,4146mil)  Multi-Layer
+   Violation between Polygon Region (356 hole(s)) Bottom Layer and 
+                     Pad *1-5(3059mil,4146mil)  Multi-Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad *1-16(3059mil,4046mil)  Multi-Layer
+   Violation between Polygon Region (356 hole(s)) Bottom Layer and 
+                     Pad *1-16(3059mil,4046mil)  Multi-Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad *1-6(2959mil,4146mil)  Multi-Layer
+   Violation between Polygon Region (356 hole(s)) Bottom Layer and 
+                     Pad *1-6(2959mil,4146mil)  Multi-Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad *1-15(2959mil,4046mil)  Multi-Layer
+   Violation between Polygon Region (356 hole(s)) Bottom Layer and 
+                     Pad *1-15(2959mil,4046mil)  Multi-Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad *1-7(2859mil,4146mil)  Multi-Layer
+   Violation between Polygon Region (356 hole(s)) Bottom Layer and 
+                     Pad *1-7(2859mil,4146mil)  Multi-Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad *1-14(2859mil,4046mil)  Multi-Layer
+   Violation between Polygon Region (356 hole(s)) Bottom Layer and 
+                     Pad *1-14(2859mil,4046mil)  Multi-Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad *1-8(2759mil,4146mil)  Multi-Layer
+   Violation between Polygon Region (356 hole(s)) Bottom Layer and 
+                     Pad *1-8(2759mil,4146mil)  Multi-Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad *1-13(2759mil,4046mil)  Multi-Layer
+   Violation between Polygon Region (356 hole(s)) Bottom Layer and 
+                     Pad *1-13(2759mil,4046mil)  Multi-Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad *1-9(2659mil,4146mil)  Multi-Layer
+   Violation between Polygon Region (356 hole(s)) Bottom Layer and 
+                     Pad *1-9(2659mil,4146mil)  Multi-Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad *1-12(2659mil,4046mil)  Multi-Layer
+   Violation between Polygon Region (356 hole(s)) Bottom Layer and 
+                     Pad *1-12(2659mil,4046mil)  Multi-Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad *1-10(2559mil,4146mil)  Multi-Layer
+   Violation between Polygon Region (356 hole(s)) Bottom Layer and 
+                     Pad *1-10(2559mil,4146mil)  Multi-Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad *4-1(4705mil,2980mil)  Multi-Layer
+   Violation between Polygon Region (356 hole(s)) Bottom Layer and 
+                     Pad *4-1(4705mil,2980mil)  Multi-Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad *4-2(4705mil,2880mil)  Multi-Layer
+   Violation between Polygon Region (356 hole(s)) Bottom Layer and 
+                     Pad *4-2(4705mil,2880mil)  Multi-Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad *4-3(4705mil,2780mil)  Multi-Layer
+   Violation between Polygon Region (356 hole(s)) Bottom Layer and 
+                     Pad *4-3(4705mil,2780mil)  Multi-Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad *4-4(4705mil,2680mil)  Multi-Layer
+   Violation between Polygon Region (356 hole(s)) Bottom Layer and 
+                     Pad *4-4(4705mil,2680mil)  Multi-Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad *4-6(4604mil,2582mil)  Multi-Layer
+   Violation between Polygon Region (356 hole(s)) Bottom Layer and 
+                     Pad *4-6(4604mil,2582mil)  Multi-Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad *4-7(4604mil,2680mil)  Multi-Layer
+   Violation between Polygon Region (356 hole(s)) Bottom Layer and 
+                     Pad *4-7(4604mil,2680mil)  Multi-Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad *4-8(4604mil,2780mil)  Multi-Layer
+   Violation between Polygon Region (356 hole(s)) Bottom Layer and 
+                     Pad *4-8(4604mil,2780mil)  Multi-Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad *4-9(4604mil,2880mil)  Multi-Layer
+   Violation between Polygon Region (356 hole(s)) Bottom Layer and 
+                     Pad *4-9(4604mil,2880mil)  Multi-Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad *4-10(4604mil,2980mil)  Multi-Layer
+   Violation between Polygon Region (356 hole(s)) Bottom Layer and 
+                     Pad *4-10(4604mil,2980mil)  Multi-Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad *5-6(4505mil,4135mil)  Multi-Layer
+   Violation between Polygon Region (356 hole(s)) Bottom Layer and 
+                     Pad *5-6(4505mil,4135mil)  Multi-Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad *5-5(4605mil,4135mil)  Multi-Layer
+   Violation between Polygon Region (356 hole(s)) Bottom Layer and 
+                     Pad *5-5(4605mil,4135mil)  Multi-Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad *5-4(4705mil,4135mil)  Multi-Layer
+   Violation between Polygon Region (356 hole(s)) Bottom Layer and 
+                     Pad *5-4(4705mil,4135mil)  Multi-Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad *5-3(4805mil,4135mil)  Multi-Layer
+   Violation between Polygon Region (356 hole(s)) Bottom Layer and 
+                     Pad *5-3(4805mil,4135mil)  Multi-Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad *5-2(4905mil,4135mil)  Multi-Layer
+   Violation between Polygon Region (356 hole(s)) Bottom Layer and 
+                     Pad *5-2(4905mil,4135mil)  Multi-Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad *7-2(4995mil,3920mil)  Multi-Layer
+   Violation between Polygon Region (356 hole(s)) Bottom Layer and 
+                     Pad *7-2(4995mil,3920mil)  Multi-Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad *7-3(4895mil,3920mil)  Multi-Layer
+   Violation between Polygon Region (356 hole(s)) Bottom Layer and 
+                     Pad *7-3(4895mil,3920mil)  Multi-Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad *8-2(4604mil,3280mil)  Multi-Layer
+   Violation between Polygon Region (356 hole(s)) Bottom Layer and 
+                     Pad *8-2(4604mil,3280mil)  Multi-Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad *8-3(4604mil,3380mil)  Multi-Layer
+   Violation between Polygon Region (356 hole(s)) Bottom Layer and 
+                     Pad *8-3(4604mil,3380mil)  Multi-Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad *8-4(4604mil,3480mil)  Multi-Layer
+   Violation between Polygon Region (356 hole(s)) Bottom Layer and 
+                     Pad *8-4(4604mil,3480mil)  Multi-Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad *8-5(4604mil,3580mil)  Multi-Layer
+   Violation between Polygon Region (356 hole(s)) Bottom Layer and 
+                     Pad *8-5(4604mil,3580mil)  Multi-Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad *8-6(4705mil,3578mil)  Multi-Layer
+   Violation between Polygon Region (356 hole(s)) Bottom Layer and 
+                     Pad *8-6(4705mil,3578mil)  Multi-Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad *8-7(4705mil,3480mil)  Multi-Layer
+   Violation between Polygon Region (356 hole(s)) Bottom Layer and 
+                     Pad *8-7(4705mil,3480mil)  Multi-Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad *8-8(4705mil,3380mil)  Multi-Layer
+   Violation between Polygon Region (356 hole(s)) Bottom Layer and 
+                     Pad *8-8(4705mil,3380mil)  Multi-Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad *8-9(4705mil,3280mil)  Multi-Layer
+   Violation between Polygon Region (356 hole(s)) Bottom Layer and 
+                     Pad *8-9(4705mil,3280mil)  Multi-Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad *8-10(4705mil,3180mil)  Multi-Layer
+   Violation between Polygon Region (356 hole(s)) Bottom Layer and 
+                     Pad *8-10(4705mil,3180mil)  Multi-Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad *9-8(1920mil,2620mil)  Multi-Layer
+   Violation between Polygon Region (356 hole(s)) Bottom Layer and 
+                     Pad *9-8(1920mil,2620mil)  Multi-Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad *9-7(1920mil,2720mil)  Multi-Layer
+   Violation between Polygon Region (356 hole(s)) Bottom Layer and 
+                     Pad *9-7(1920mil,2720mil)  Multi-Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad *9-6(1920mil,2820mil)  Multi-Layer
+   Violation between Polygon Region (356 hole(s)) Bottom Layer and 
+                     Pad *9-6(1920mil,2820mil)  Multi-Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad *9-5(1920mil,2920mil)  Multi-Layer
+   Violation between Polygon Region (356 hole(s)) Bottom Layer and 
+                     Pad *9-5(1920mil,2920mil)  Multi-Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad *9-4(1920mil,3020mil)  Multi-Layer
+   Violation between Polygon Region (356 hole(s)) Bottom Layer and 
+                     Pad *9-4(1920mil,3020mil)  Multi-Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad *9-3(1920mil,3120mil)  Multi-Layer
+   Violation between Polygon Region (356 hole(s)) Bottom Layer and 
+                     Pad *9-3(1920mil,3120mil)  Multi-Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad *9-1(1920mil,3320mil)  Multi-Layer
+   Violation between Polygon Region (356 hole(s)) Bottom Layer and 
+                     Pad *9-1(1920mil,3320mil)  Multi-Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad BMQ1-2(5475mil,2765mil)  Multi-Layer
+   Violation between Polygon Region (356 hole(s)) Bottom Layer and 
+                     Pad BMQ1-2(5475mil,2765mil)  Multi-Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad BMQ1-3(5575mil,2665mil)  Multi-Layer
+   Violation between Polygon Region (356 hole(s)) Bottom Layer and 
+                     Pad BMQ1-3(5575mil,2665mil)  Multi-Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad BMQ1-4(5575mil,2765mil)  Multi-Layer
+   Violation between Polygon Region (356 hole(s)) Bottom Layer and 
+                     Pad BMQ1-4(5575mil,2765mil)  Multi-Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad BMQ1-5(5675mil,2665mil)  Multi-Layer
+   Violation between Polygon Region (356 hole(s)) Bottom Layer and 
+                     Pad BMQ1-5(5675mil,2665mil)  Multi-Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad BMQ1-6(5675mil,2765mil)  Multi-Layer
+   Violation between Polygon Region (356 hole(s)) Bottom Layer and 
+                     Pad BMQ1-6(5675mil,2765mil)  Multi-Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad BMQ2-2(5010mil,2765mil)  Multi-Layer
+   Violation between Polygon Region (356 hole(s)) Bottom Layer and 
+                     Pad BMQ2-2(5010mil,2765mil)  Multi-Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad BMQ2-3(5110mil,2665mil)  Multi-Layer
+   Violation between Polygon Region (356 hole(s)) Bottom Layer and 
+                     Pad BMQ2-3(5110mil,2665mil)  Multi-Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad BMQ2-4(5110mil,2765mil)  Multi-Layer
+   Violation between Polygon Region (356 hole(s)) Bottom Layer and 
+                     Pad BMQ2-4(5110mil,2765mil)  Multi-Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad BMQ2-5(5210mil,2665mil)  Multi-Layer
+   Violation between Polygon Region (356 hole(s)) Bottom Layer and 
+                     Pad BMQ2-5(5210mil,2665mil)  Multi-Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad BMQ2-6(5210mil,2765mil)  Multi-Layer
+   Violation between Polygon Region (356 hole(s)) Bottom Layer and 
+                     Pad BMQ2-6(5210mil,2765mil)  Multi-Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad C24-1(4115mil,2015mil)  Multi-Layer
+   Violation between Polygon Region (356 hole(s)) Bottom Layer and 
+                     Pad C24-1(4115mil,2015mil)  Multi-Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad C29-1(6000mil,3285mil)  Multi-Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad C30-1(6075mil,2935mil)  Multi-Layer
+   Violation between Polygon Region (356 hole(s)) Bottom Layer and 
+                     Pad C30-1(6075mil,2935mil)  Multi-Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad CON2-1(5225mil,2070mil)  Multi-Layer
+   Violation between Polygon Region (356 hole(s)) Bottom Layer and 
+                     Pad CON2-1(5225mil,2070mil)  Multi-Layer
+   Violation between Polygon Region (356 hole(s)) Bottom Layer and 
+                     Pad DY1-2(5295mil,2330mil)  Multi-Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad Moter1-5(3455mil,1990mil)  Multi-Layer
+   Violation between Polygon Region (356 hole(s)) Bottom Layer and 
+                     Pad Moter1-5(3455mil,1990mil)  Multi-Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad Moter1-4(3355mil,1990mil)  Multi-Layer
+   Violation between Polygon Region (356 hole(s)) Bottom Layer and 
+                     Pad Moter1-4(3355mil,1990mil)  Multi-Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad Moter1-3(3255mil,1990mil)  Multi-Layer
+   Violation between Polygon Region (356 hole(s)) Bottom Layer and 
+                     Pad Moter1-3(3255mil,1990mil)  Multi-Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad Moter1-2(3155mil,1990mil)  Multi-Layer
+   Violation between Polygon Region (356 hole(s)) Bottom Layer and 
+                     Pad Moter1-2(3155mil,1990mil)  Multi-Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad Moter1-1(3055mil,1990mil)  Multi-Layer
+   Violation between Polygon Region (356 hole(s)) Bottom Layer and 
+                     Pad Moter1-1(3055mil,1990mil)  Multi-Layer
+   Violation between Polygon Region (356 hole(s)) Bottom Layer and 
+                     Pad oled1-6(3720mil,3745mil)  Multi-Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad oled1-5(3620mil,3745mil)  Multi-Layer
+   Violation between Polygon Region (356 hole(s)) Bottom Layer and 
+                     Pad oled1-5(3620mil,3745mil)  Multi-Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad oled1-4(3520mil,3745mil)  Multi-Layer
+   Violation between Polygon Region (356 hole(s)) Bottom Layer and 
+                     Pad oled1-4(3520mil,3745mil)  Multi-Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad oled1-3(3420mil,3745mil)  Multi-Layer
+   Violation between Polygon Region (356 hole(s)) Bottom Layer and 
+                     Pad oled1-3(3420mil,3745mil)  Multi-Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad oled1-2(3320mil,3745mil)  Multi-Layer
+   Violation between Polygon Region (356 hole(s)) Bottom Layer and 
+                     Pad oled1-2(3320mil,3745mil)  Multi-Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad S1-6(2470mil,3596.666mil)  Multi-Layer
+   Violation between Polygon Region (356 hole(s)) Bottom Layer and 
+                     Pad S1-6(2470mil,3596.666mil)  Multi-Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad S1-5(2470mil,3480mil)  Multi-Layer
+   Violation between Polygon Region (356 hole(s)) Bottom Layer and 
+                     Pad S1-5(2470mil,3480mil)  Multi-Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad S1-7(2470mil,3713.334mil)  Multi-Layer
+   Violation between Polygon Region (356 hole(s)) Bottom Layer and 
+                     Pad S1-7(2470mil,3713.334mil)  Multi-Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad S1-8(2470mil,3830mil)  Multi-Layer
+   Violation between Polygon Region (356 hole(s)) Bottom Layer and 
+                     Pad S1-8(2470mil,3830mil)  Multi-Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad R33-2(5078mil,3402mil)  Multi-Layer
+   Violation between Polygon Region (356 hole(s)) Bottom Layer and 
+                     Pad R33-2(5078mil,3402mil)  Multi-Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad blue?-1(3785mil,2110mil)  Multi-Layer
+   Violation between Polygon Region (356 hole(s)) Bottom Layer and 
+                     Pad blue?-1(3785mil,2110mil)  Multi-Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad blue?-3(3785mil,2310mil)  Multi-Layer
+   Violation between Polygon Region (356 hole(s)) Bottom Layer and 
+                     Pad blue?-3(3785mil,2310mil)  Multi-Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad blue?-4(3785mil,2410mil)  Multi-Layer
+   Violation between Polygon Region (356 hole(s)) Bottom Layer and 
+                     Pad blue?-4(3785mil,2410mil)  Multi-Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad *-1(2595mil,2470mil)  Multi-Layer
+   Violation between Polygon Region (356 hole(s)) Bottom Layer and 
+                     Pad *-1(2595mil,2470mil)  Multi-Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad *-3(2395mil,2470mil)  Multi-Layer
+   Violation between Polygon Region (356 hole(s)) Bottom Layer and 
+                     Pad *-3(2395mil,2470mil)  Multi-Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad *-4(2295mil,2470mil)  Multi-Layer
+   Violation between Polygon Region (356 hole(s)) Bottom Layer and 
+                     Pad *-4(2295mil,2470mil)  Multi-Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad bell1-2(1806.26mil,2172.598mil)  Multi-Layer
+   Violation between Polygon Region (356 hole(s)) Bottom Layer and 
+                     Pad bell1-2(1806.26mil,2172.598mil)  Multi-Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad bell1-1(1806.26mil,2302.598mil)  Multi-Layer
+   Violation between Polygon Region (356 hole(s)) Bottom Layer and 
+                     Pad bell1-1(1806.26mil,2302.598mil)  Multi-Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad DY2-2(5275mil,3105mil)  Multi-Layer
+   Violation between Polygon Region (356 hole(s)) Bottom Layer and 
+                     Pad DY2-2(5275mil,3105mil)  Multi-Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad S9-(5772mil,2051mil)  Multi-Layer
+   Violation between Polygon Region (356 hole(s)) Bottom Layer and 
+                     Pad S9-(5772mil,2051mil)  Multi-Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad S9-2(5772mil,2202mil)  Multi-Layer
+   Violation between Polygon Region (356 hole(s)) Bottom Layer and 
+                     Pad S9-2(5772mil,2202mil)  Multi-Layer
+   Violation between Polygon Region (356 hole(s)) Bottom Layer and 
+                     Pad S9-1(5772mil,2352mil)  Multi-Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad *2-1(3280.512mil,2629.646mil)  Top Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad *2-2(3300.196mil,2629.646mil)  Top Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad *2-3(3319.882mil,2629.646mil)  Top Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad *2-4(3339.568mil,2629.646mil)  Top Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad *2-5(3359.252mil,2629.646mil)  Top Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad *2-7(3398.622mil,2629.646mil)  Top Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad *2-8(3418.308mil,2629.646mil)  Top Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad *2-9(3437.992mil,2629.646mil)  Top Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad *2-10(3457.678mil,2629.646mil)  Top Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad *2-11(3477.362mil,2629.646mil)  Top Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad *2-12(3497.048mil,2629.646mil)  Top Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad *2-13(3516.732mil,2629.646mil)  Top Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad *2-14(3536.418mil,2629.646mil)  Top Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad *2-15(3556.102mil,2629.646mil)  Top Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad *2-16(3575.788mil,2629.646mil)  Top Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad *2-19(3634.842mil,2629.646mil)  Top Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad *2-20(3654.528mil,2629.646mil)  Top Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad *2-21(3674.212mil,2629.646mil)  Top Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad *2-22(3693.898mil,2629.646mil)  Top Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad *2-23(3713.582mil,2629.646mil)  Top Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad *2-24(3733.268mil,2629.646mil)  Top Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad *2-25(3752.952mil,2629.646mil)  Top Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad *2-26(3772.638mil,2629.646mil)  Top Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad *2-27(3792.322mil,2629.646mil)  Top Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad *2-28(3812.008mil,2629.646mil)  Top Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad *2-29(3831.692mil,2629.646mil)  Top Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad *2-30(3851.378mil,2629.646mil)  Top Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad *2-31(3871.064mil,2629.646mil)  Top Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad *2-32(3890.748mil,2629.646mil)  Top Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad *2-33(3910.434mil,2629.646mil)  Top Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad *2-34(3930.118mil,2629.646mil)  Top Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad *2-35(3949.804mil,2629.646mil)  Top Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad *2-36(3969.488mil,2629.646mil)  Top Layer
+Rule Violations :217
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0mil) (All),(All)
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Arc (2903.042mil,1956.992mil)  Keep-Out Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Arc (3999.952mil,4178.891mil)  Keep-Out Layer
+   Violation between Polygon Region (356 hole(s)) Bottom Layer and 
+                     Arc (3999.952mil,4178.891mil)  Keep-Out Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Arc (3990.68mil,4178.891mil)  Keep-Out Layer
+   Violation between Polygon Region (356 hole(s)) Bottom Layer and 
+                     Arc (3990.68mil,4178.891mil)  Keep-Out Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad CON1-1(6171mil,2448mil)  Multi-Layer
+   Violation between Polygon Region (356 hole(s)) Bottom Layer and 
+                     Pad CON1-1(6171mil,2448mil)  Multi-Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad *1-1(3459mil,4146mil)  Multi-Layer
+   Violation between Polygon Region (356 hole(s)) Bottom Layer and 
+                     Pad *1-1(3459mil,4146mil)  Multi-Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad *1-20(3459mil,4046mil)  Multi-Layer
+   Violation between Polygon Region (356 hole(s)) Bottom Layer and 
+                     Pad *1-20(3459mil,4046mil)  Multi-Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad *1-2(3359mil,4146mil)  Multi-Layer
+   Violation between Polygon Region (356 hole(s)) Bottom Layer and 
+                     Pad *1-2(3359mil,4146mil)  Multi-Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad *1-19(3359mil,4046mil)  Multi-Layer
+   Violation between Polygon Region (356 hole(s)) Bottom Layer and 
+                     Pad *1-19(3359mil,4046mil)  Multi-Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad *1-3(3259mil,4146mil)  Multi-Layer
+   Violation between Polygon Region (356 hole(s)) Bottom Layer and 
+                     Pad *1-3(3259mil,4146mil)  Multi-Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad *1-18(3259mil,4046mil)  Multi-Layer
+   Violation between Polygon Region (356 hole(s)) Bottom Layer and 
+                     Pad *1-18(3259mil,4046mil)  Multi-Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad *1-4(3159mil,4146mil)  Multi-Layer
+   Violation between Polygon Region (356 hole(s)) Bottom Layer and 
+                     Pad *1-4(3159mil,4146mil)  Multi-Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad *1-17(3159mil,4046mil)  Multi-Layer
+   Violation between Polygon Region (356 hole(s)) Bottom Layer and 
+                     Pad *1-17(3159mil,4046mil)  Multi-Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad *1-5(3059mil,4146mil)  Multi-Layer
+   Violation between Polygon Region (356 hole(s)) Bottom Layer and 
+                     Pad *1-5(3059mil,4146mil)  Multi-Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad *1-16(3059mil,4046mil)  Multi-Layer
+   Violation between Polygon Region (356 hole(s)) Bottom Layer and 
+                     Pad *1-16(3059mil,4046mil)  Multi-Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad *1-6(2959mil,4146mil)  Multi-Layer
+   Violation between Polygon Region (356 hole(s)) Bottom Layer and 
+                     Pad *1-6(2959mil,4146mil)  Multi-Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad *1-15(2959mil,4046mil)  Multi-Layer
+   Violation between Polygon Region (356 hole(s)) Bottom Layer and 
+                     Pad *1-15(2959mil,4046mil)  Multi-Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad *1-7(2859mil,4146mil)  Multi-Layer
+   Violation between Polygon Region (356 hole(s)) Bottom Layer and 
+                     Pad *1-7(2859mil,4146mil)  Multi-Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad *1-14(2859mil,4046mil)  Multi-Layer
+   Violation between Polygon Region (356 hole(s)) Bottom Layer and 
+                     Pad *1-14(2859mil,4046mil)  Multi-Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad *1-8(2759mil,4146mil)  Multi-Layer
+   Violation between Polygon Region (356 hole(s)) Bottom Layer and 
+                     Pad *1-8(2759mil,4146mil)  Multi-Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad *1-13(2759mil,4046mil)  Multi-Layer
+   Violation between Polygon Region (356 hole(s)) Bottom Layer and 
+                     Pad *1-13(2759mil,4046mil)  Multi-Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad *1-9(2659mil,4146mil)  Multi-Layer
+   Violation between Polygon Region (356 hole(s)) Bottom Layer and 
+                     Pad *1-9(2659mil,4146mil)  Multi-Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad *1-12(2659mil,4046mil)  Multi-Layer
+   Violation between Polygon Region (356 hole(s)) Bottom Layer and 
+                     Pad *1-12(2659mil,4046mil)  Multi-Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad *1-10(2559mil,4146mil)  Multi-Layer
+   Violation between Polygon Region (356 hole(s)) Bottom Layer and 
+                     Pad *1-10(2559mil,4146mil)  Multi-Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad *4-1(4705mil,2980mil)  Multi-Layer
+   Violation between Polygon Region (356 hole(s)) Bottom Layer and 
+                     Pad *4-1(4705mil,2980mil)  Multi-Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad *4-2(4705mil,2880mil)  Multi-Layer
+   Violation between Polygon Region (356 hole(s)) Bottom Layer and 
+                     Pad *4-2(4705mil,2880mil)  Multi-Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad *4-3(4705mil,2780mil)  Multi-Layer
+   Violation between Polygon Region (356 hole(s)) Bottom Layer and 
+                     Pad *4-3(4705mil,2780mil)  Multi-Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad *4-4(4705mil,2680mil)  Multi-Layer
+   Violation between Polygon Region (356 hole(s)) Bottom Layer and 
+                     Pad *4-4(4705mil,2680mil)  Multi-Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad *4-6(4604mil,2582mil)  Multi-Layer
+   Violation between Polygon Region (356 hole(s)) Bottom Layer and 
+                     Pad *4-6(4604mil,2582mil)  Multi-Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad *4-7(4604mil,2680mil)  Multi-Layer
+   Violation between Polygon Region (356 hole(s)) Bottom Layer and 
+                     Pad *4-7(4604mil,2680mil)  Multi-Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad *4-8(4604mil,2780mil)  Multi-Layer
+   Violation between Polygon Region (356 hole(s)) Bottom Layer and 
+                     Pad *4-8(4604mil,2780mil)  Multi-Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad *4-9(4604mil,2880mil)  Multi-Layer
+   Violation between Polygon Region (356 hole(s)) Bottom Layer and 
+                     Pad *4-9(4604mil,2880mil)  Multi-Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad *4-10(4604mil,2980mil)  Multi-Layer
+   Violation between Polygon Region (356 hole(s)) Bottom Layer and 
+                     Pad *4-10(4604mil,2980mil)  Multi-Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad *5-6(4505mil,4135mil)  Multi-Layer
+   Violation between Polygon Region (356 hole(s)) Bottom Layer and 
+                     Pad *5-6(4505mil,4135mil)  Multi-Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad *5-5(4605mil,4135mil)  Multi-Layer
+   Violation between Polygon Region (356 hole(s)) Bottom Layer and 
+                     Pad *5-5(4605mil,4135mil)  Multi-Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad *5-4(4705mil,4135mil)  Multi-Layer
+   Violation between Polygon Region (356 hole(s)) Bottom Layer and 
+                     Pad *5-4(4705mil,4135mil)  Multi-Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad *5-3(4805mil,4135mil)  Multi-Layer
+   Violation between Polygon Region (356 hole(s)) Bottom Layer and 
+                     Pad *5-3(4805mil,4135mil)  Multi-Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad *5-2(4905mil,4135mil)  Multi-Layer
+   Violation between Polygon Region (356 hole(s)) Bottom Layer and 
+                     Pad *5-2(4905mil,4135mil)  Multi-Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad *7-2(4995mil,3920mil)  Multi-Layer
+   Violation between Polygon Region (356 hole(s)) Bottom Layer and 
+                     Pad *7-2(4995mil,3920mil)  Multi-Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad *7-3(4895mil,3920mil)  Multi-Layer
+   Violation between Polygon Region (356 hole(s)) Bottom Layer and 
+                     Pad *7-3(4895mil,3920mil)  Multi-Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad *8-2(4604mil,3280mil)  Multi-Layer
+   Violation between Polygon Region (356 hole(s)) Bottom Layer and 
+                     Pad *8-2(4604mil,3280mil)  Multi-Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad *8-3(4604mil,3380mil)  Multi-Layer
+   Violation between Polygon Region (356 hole(s)) Bottom Layer and 
+                     Pad *8-3(4604mil,3380mil)  Multi-Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad *8-4(4604mil,3480mil)  Multi-Layer
+   Violation between Polygon Region (356 hole(s)) Bottom Layer and 
+                     Pad *8-4(4604mil,3480mil)  Multi-Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad *8-5(4604mil,3580mil)  Multi-Layer
+   Violation between Polygon Region (356 hole(s)) Bottom Layer and 
+                     Pad *8-5(4604mil,3580mil)  Multi-Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad *8-6(4705mil,3578mil)  Multi-Layer
+   Violation between Polygon Region (356 hole(s)) Bottom Layer and 
+                     Pad *8-6(4705mil,3578mil)  Multi-Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad *8-7(4705mil,3480mil)  Multi-Layer
+   Violation between Polygon Region (356 hole(s)) Bottom Layer and 
+                     Pad *8-7(4705mil,3480mil)  Multi-Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad *8-8(4705mil,3380mil)  Multi-Layer
+   Violation between Polygon Region (356 hole(s)) Bottom Layer and 
+                     Pad *8-8(4705mil,3380mil)  Multi-Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad *8-9(4705mil,3280mil)  Multi-Layer
+   Violation between Polygon Region (356 hole(s)) Bottom Layer and 
+                     Pad *8-9(4705mil,3280mil)  Multi-Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad *8-10(4705mil,3180mil)  Multi-Layer
+   Violation between Polygon Region (356 hole(s)) Bottom Layer and 
+                     Pad *8-10(4705mil,3180mil)  Multi-Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad *9-8(1920mil,2620mil)  Multi-Layer
+   Violation between Polygon Region (356 hole(s)) Bottom Layer and 
+                     Pad *9-8(1920mil,2620mil)  Multi-Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad *9-7(1920mil,2720mil)  Multi-Layer
+   Violation between Polygon Region (356 hole(s)) Bottom Layer and 
+                     Pad *9-7(1920mil,2720mil)  Multi-Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad *9-6(1920mil,2820mil)  Multi-Layer
+   Violation between Polygon Region (356 hole(s)) Bottom Layer and 
+                     Pad *9-6(1920mil,2820mil)  Multi-Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad *9-5(1920mil,2920mil)  Multi-Layer
+   Violation between Polygon Region (356 hole(s)) Bottom Layer and 
+                     Pad *9-5(1920mil,2920mil)  Multi-Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad *9-4(1920mil,3020mil)  Multi-Layer
+   Violation between Polygon Region (356 hole(s)) Bottom Layer and 
+                     Pad *9-4(1920mil,3020mil)  Multi-Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad *9-3(1920mil,3120mil)  Multi-Layer
+   Violation between Polygon Region (356 hole(s)) Bottom Layer and 
+                     Pad *9-3(1920mil,3120mil)  Multi-Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad *9-1(1920mil,3320mil)  Multi-Layer
+   Violation between Polygon Region (356 hole(s)) Bottom Layer and 
+                     Pad *9-1(1920mil,3320mil)  Multi-Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad BMQ1-2(5475mil,2765mil)  Multi-Layer
+   Violation between Polygon Region (356 hole(s)) Bottom Layer and 
+                     Pad BMQ1-2(5475mil,2765mil)  Multi-Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad BMQ1-3(5575mil,2665mil)  Multi-Layer
+   Violation between Polygon Region (356 hole(s)) Bottom Layer and 
+                     Pad BMQ1-3(5575mil,2665mil)  Multi-Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad BMQ1-4(5575mil,2765mil)  Multi-Layer
+   Violation between Polygon Region (356 hole(s)) Bottom Layer and 
+                     Pad BMQ1-4(5575mil,2765mil)  Multi-Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad BMQ1-5(5675mil,2665mil)  Multi-Layer
+   Violation between Polygon Region (356 hole(s)) Bottom Layer and 
+                     Pad BMQ1-5(5675mil,2665mil)  Multi-Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad BMQ1-6(5675mil,2765mil)  Multi-Layer
+   Violation between Polygon Region (356 hole(s)) Bottom Layer and 
+                     Pad BMQ1-6(5675mil,2765mil)  Multi-Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad BMQ2-2(5010mil,2765mil)  Multi-Layer
+   Violation between Polygon Region (356 hole(s)) Bottom Layer and 
+                     Pad BMQ2-2(5010mil,2765mil)  Multi-Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad BMQ2-3(5110mil,2665mil)  Multi-Layer
+   Violation between Polygon Region (356 hole(s)) Bottom Layer and 
+                     Pad BMQ2-3(5110mil,2665mil)  Multi-Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad BMQ2-4(5110mil,2765mil)  Multi-Layer
+   Violation between Polygon Region (356 hole(s)) Bottom Layer and 
+                     Pad BMQ2-4(5110mil,2765mil)  Multi-Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad BMQ2-5(5210mil,2665mil)  Multi-Layer
+   Violation between Polygon Region (356 hole(s)) Bottom Layer and 
+                     Pad BMQ2-5(5210mil,2665mil)  Multi-Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad BMQ2-6(5210mil,2765mil)  Multi-Layer
+   Violation between Polygon Region (356 hole(s)) Bottom Layer and 
+                     Pad BMQ2-6(5210mil,2765mil)  Multi-Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad C24-1(4115mil,2015mil)  Multi-Layer
+   Violation between Polygon Region (356 hole(s)) Bottom Layer and 
+                     Pad C24-1(4115mil,2015mil)  Multi-Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad C29-1(6000mil,3285mil)  Multi-Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad C30-1(6075mil,2935mil)  Multi-Layer
+   Violation between Polygon Region (356 hole(s)) Bottom Layer and 
+                     Pad C30-1(6075mil,2935mil)  Multi-Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad CON2-1(5225mil,2070mil)  Multi-Layer
+   Violation between Polygon Region (356 hole(s)) Bottom Layer and 
+                     Pad CON2-1(5225mil,2070mil)  Multi-Layer
+   Violation between Polygon Region (356 hole(s)) Bottom Layer and 
+                     Pad DY1-2(5295mil,2330mil)  Multi-Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad Moter1-5(3455mil,1990mil)  Multi-Layer
+   Violation between Polygon Region (356 hole(s)) Bottom Layer and 
+                     Pad Moter1-5(3455mil,1990mil)  Multi-Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad Moter1-4(3355mil,1990mil)  Multi-Layer
+   Violation between Polygon Region (356 hole(s)) Bottom Layer and 
+                     Pad Moter1-4(3355mil,1990mil)  Multi-Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad Moter1-3(3255mil,1990mil)  Multi-Layer
+   Violation between Polygon Region (356 hole(s)) Bottom Layer and 
+                     Pad Moter1-3(3255mil,1990mil)  Multi-Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad Moter1-2(3155mil,1990mil)  Multi-Layer
+   Violation between Polygon Region (356 hole(s)) Bottom Layer and 
+                     Pad Moter1-2(3155mil,1990mil)  Multi-Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad Moter1-1(3055mil,1990mil)  Multi-Layer
+   Violation between Polygon Region (356 hole(s)) Bottom Layer and 
+                     Pad Moter1-1(3055mil,1990mil)  Multi-Layer
+   Violation between Polygon Region (356 hole(s)) Bottom Layer and 
+                     Pad oled1-6(3720mil,3745mil)  Multi-Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad oled1-5(3620mil,3745mil)  Multi-Layer
+   Violation between Polygon Region (356 hole(s)) Bottom Layer and 
+                     Pad oled1-5(3620mil,3745mil)  Multi-Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad oled1-4(3520mil,3745mil)  Multi-Layer
+   Violation between Polygon Region (356 hole(s)) Bottom Layer and 
+                     Pad oled1-4(3520mil,3745mil)  Multi-Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad oled1-3(3420mil,3745mil)  Multi-Layer
+   Violation between Polygon Region (356 hole(s)) Bottom Layer and 
+                     Pad oled1-3(3420mil,3745mil)  Multi-Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad oled1-2(3320mil,3745mil)  Multi-Layer
+   Violation between Polygon Region (356 hole(s)) Bottom Layer and 
+                     Pad oled1-2(3320mil,3745mil)  Multi-Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad S1-6(2470mil,3596.666mil)  Multi-Layer
+   Violation between Polygon Region (356 hole(s)) Bottom Layer and 
+                     Pad S1-6(2470mil,3596.666mil)  Multi-Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad S1-5(2470mil,3480mil)  Multi-Layer
+   Violation between Polygon Region (356 hole(s)) Bottom Layer and 
+                     Pad S1-5(2470mil,3480mil)  Multi-Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad S1-7(2470mil,3713.334mil)  Multi-Layer
+   Violation between Polygon Region (356 hole(s)) Bottom Layer and 
+                     Pad S1-7(2470mil,3713.334mil)  Multi-Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad S1-8(2470mil,3830mil)  Multi-Layer
+   Violation between Polygon Region (356 hole(s)) Bottom Layer and 
+                     Pad S1-8(2470mil,3830mil)  Multi-Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad R33-2(5078mil,3402mil)  Multi-Layer
+   Violation between Polygon Region (356 hole(s)) Bottom Layer and 
+                     Pad R33-2(5078mil,3402mil)  Multi-Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad blue?-1(3785mil,2110mil)  Multi-Layer
+   Violation between Polygon Region (356 hole(s)) Bottom Layer and 
+                     Pad blue?-1(3785mil,2110mil)  Multi-Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad blue?-3(3785mil,2310mil)  Multi-Layer
+   Violation between Polygon Region (356 hole(s)) Bottom Layer and 
+                     Pad blue?-3(3785mil,2310mil)  Multi-Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad blue?-4(3785mil,2410mil)  Multi-Layer
+   Violation between Polygon Region (356 hole(s)) Bottom Layer and 
+                     Pad blue?-4(3785mil,2410mil)  Multi-Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad *-1(2595mil,2470mil)  Multi-Layer
+   Violation between Polygon Region (356 hole(s)) Bottom Layer and 
+                     Pad *-1(2595mil,2470mil)  Multi-Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad *-3(2395mil,2470mil)  Multi-Layer
+   Violation between Polygon Region (356 hole(s)) Bottom Layer and 
+                     Pad *-3(2395mil,2470mil)  Multi-Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad *-4(2295mil,2470mil)  Multi-Layer
+   Violation between Polygon Region (356 hole(s)) Bottom Layer and 
+                     Pad *-4(2295mil,2470mil)  Multi-Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad bell1-2(1806.26mil,2172.598mil)  Multi-Layer
+   Violation between Polygon Region (356 hole(s)) Bottom Layer and 
+                     Pad bell1-2(1806.26mil,2172.598mil)  Multi-Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad bell1-1(1806.26mil,2302.598mil)  Multi-Layer
+   Violation between Polygon Region (356 hole(s)) Bottom Layer and 
+                     Pad bell1-1(1806.26mil,2302.598mil)  Multi-Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad DY2-2(5275mil,3105mil)  Multi-Layer
+   Violation between Polygon Region (356 hole(s)) Bottom Layer and 
+                     Pad DY2-2(5275mil,3105mil)  Multi-Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad S9-(5772mil,2051mil)  Multi-Layer
+   Violation between Polygon Region (356 hole(s)) Bottom Layer and 
+                     Pad S9-(5772mil,2051mil)  Multi-Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad S9-2(5772mil,2202mil)  Multi-Layer
+   Violation between Polygon Region (356 hole(s)) Bottom Layer and 
+                     Pad S9-2(5772mil,2202mil)  Multi-Layer
+   Violation between Polygon Region (356 hole(s)) Bottom Layer and 
+                     Pad S9-1(5772mil,2352mil)  Multi-Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad *2-1(3280.512mil,2629.646mil)  Top Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad *2-2(3300.196mil,2629.646mil)  Top Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad *2-3(3319.882mil,2629.646mil)  Top Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad *2-4(3339.568mil,2629.646mil)  Top Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad *2-5(3359.252mil,2629.646mil)  Top Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad *2-7(3398.622mil,2629.646mil)  Top Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad *2-8(3418.308mil,2629.646mil)  Top Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad *2-9(3437.992mil,2629.646mil)  Top Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad *2-10(3457.678mil,2629.646mil)  Top Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad *2-11(3477.362mil,2629.646mil)  Top Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad *2-12(3497.048mil,2629.646mil)  Top Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad *2-13(3516.732mil,2629.646mil)  Top Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad *2-14(3536.418mil,2629.646mil)  Top Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad *2-15(3556.102mil,2629.646mil)  Top Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad *2-16(3575.788mil,2629.646mil)  Top Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad *2-19(3634.842mil,2629.646mil)  Top Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad *2-20(3654.528mil,2629.646mil)  Top Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad *2-21(3674.212mil,2629.646mil)  Top Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad *2-22(3693.898mil,2629.646mil)  Top Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad *2-23(3713.582mil,2629.646mil)  Top Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad *2-24(3733.268mil,2629.646mil)  Top Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad *2-25(3752.952mil,2629.646mil)  Top Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad *2-26(3772.638mil,2629.646mil)  Top Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad *2-27(3792.322mil,2629.646mil)  Top Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad *2-28(3812.008mil,2629.646mil)  Top Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad *2-29(3831.692mil,2629.646mil)  Top Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad *2-30(3851.378mil,2629.646mil)  Top Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad *2-31(3871.064mil,2629.646mil)  Top Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad *2-32(3890.748mil,2629.646mil)  Top Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad *2-33(3910.434mil,2629.646mil)  Top Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad *2-34(3930.118mil,2629.646mil)  Top Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad *2-35(3949.804mil,2629.646mil)  Top Layer
+   Violation between Polygon Region (373 hole(s)) Top Layer and 
+                     Pad *2-36(3969.488mil,2629.646mil)  Top Layer
+Rule Violations :222
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=10mil) (Max=200mil) (Preferred=10mil) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=1mil) (Max=100mil) (All)
+   Violation between Hole Size Constraint (177.165mil > 100mil) : Pad CON1-2(6171mil,2130mil)  Multi-Layer
+   Violation between Hole Size Constraint (177.165mil > 100mil) : Pad CON1-1(6171mil,2448mil)  Multi-Layer
+Rule Violations :2
+
+Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=10mil) (All),(All)
+   Violation between Via (2815mil,4065mil) Top Layer to Bottom Layer and 
+                     Pad *1-13(2759mil,4046mil)  Multi-Layer
+   Violation between Via (4655mil,3395mil) Top Layer to Bottom Layer and 
+                     Pad *8-3(4604mil,3380mil)  Multi-Layer
+   Violation between Via (4735mil,3525mil) Top Layer to Bottom Layer and 
+                     Pad *8-6(4705mil,3578mil)  Multi-Layer
+   Violation between Via (4735mil,3525mil) Top Layer to Bottom Layer and 
+                     Pad *8-7(4705mil,3480mil)  Multi-Layer
+   Violation between Via (3480mil,3710mil) Top Layer to Bottom Layer and 
+                     Pad oled1-4(3520mil,3745mil)  Multi-Layer
+   Violation between Pad *2-2(3300.196mil,2629.646mil)  Top Layer and 
+                     Pad *2-1(3280.512mil,2629.646mil)  Top Layer
+   Violation between Pad *2-3(3319.882mil,2629.646mil)  Top Layer and 
+                     Pad *2-2(3300.196mil,2629.646mil)  Top Layer
+   Violation between Pad *2-4(3339.568mil,2629.646mil)  Top Layer and 
+                     Pad *2-3(3319.882mil,2629.646mil)  Top Layer
+   Violation between Pad *2-5(3359.252mil,2629.646mil)  Top Layer and 
+                     Pad *2-4(3339.568mil,2629.646mil)  Top Layer
+   Violation between Pad *2-6(3378.938mil,2629.646mil)  Top Layer and 
+                     Pad *2-5(3359.252mil,2629.646mil)  Top Layer
+   Violation between Pad *2-7(3398.622mil,2629.646mil)  Top Layer and 
+                     Pad *2-6(3378.938mil,2629.646mil)  Top Layer
+   Violation between Pad *2-8(3418.308mil,2629.646mil)  Top Layer and 
+                     Pad *2-7(3398.622mil,2629.646mil)  Top Layer
+   Violation between Pad *2-9(3437.992mil,2629.646mil)  Top Layer and 
+                     Pad *2-8(3418.308mil,2629.646mil)  Top Layer
+   Violation between Pad *2-10(3457.678mil,2629.646mil)  Top Layer and 
+                     Pad *2-9(3437.992mil,2629.646mil)  Top Layer
+   Violation between Pad *2-11(3477.362mil,2629.646mil)  Top Layer and 
+                     Pad *2-10(3457.678mil,2629.646mil)  Top Layer
+   Violation between Pad *2-12(3497.048mil,2629.646mil)  Top Layer and 
+                     Pad *2-11(3477.362mil,2629.646mil)  Top Layer
+   Violation between Pad *2-13(3516.732mil,2629.646mil)  Top Layer and 
+                     Pad *2-12(3497.048mil,2629.646mil)  Top Layer
+   Violation between Pad *2-14(3536.418mil,2629.646mil)  Top Layer and 
+                     Pad *2-13(3516.732mil,2629.646mil)  Top Layer
+   Violation between Pad *2-15(3556.102mil,2629.646mil)  Top Layer and 
+                     Pad *2-14(3536.418mil,2629.646mil)  Top Layer
+   Violation between Pad *2-16(3575.788mil,2629.646mil)  Top Layer and 
+                     Pad *2-15(3556.102mil,2629.646mil)  Top Layer
+   Violation between Pad *2-17(3595.472mil,2629.646mil)  Top Layer and 
+                     Pad *2-16(3575.788mil,2629.646mil)  Top Layer
+   Violation between Pad *2-18(3615.158mil,2629.646mil)  Top Layer and 
+                     Pad *2-17(3595.472mil,2629.646mil)  Top Layer
+   Violation between Pad *2-19(3634.842mil,2629.646mil)  Top Layer and 
+                     Pad *2-18(3615.158mil,2629.646mil)  Top Layer
+   Violation between Pad *2-20(3654.528mil,2629.646mil)  Top Layer and 
+                     Pad *2-19(3634.842mil,2629.646mil)  Top Layer
+   Violation between Pad *2-21(3674.212mil,2629.646mil)  Top Layer and 
+                     Pad *2-20(3654.528mil,2629.646mil)  Top Layer
+   Violation between Pad *2-22(3693.898mil,2629.646mil)  Top Layer and 
+                     Pad *2-21(3674.212mil,2629.646mil)  Top Layer
+   Violation between Pad *2-23(3713.582mil,2629.646mil)  Top Layer and 
+                     Pad *2-22(3693.898mil,2629.646mil)  Top Layer
+   Violation between Pad *2-24(3733.268mil,2629.646mil)  Top Layer and 
+                     Pad *2-23(3713.582mil,2629.646mil)  Top Layer
+   Violation between Pad *2-25(3752.952mil,2629.646mil)  Top Layer and 
+                     Pad *2-24(3733.268mil,2629.646mil)  Top Layer
+   Violation between Pad *2-26(3772.638mil,2629.646mil)  Top Layer and 
+                     Pad *2-25(3752.952mil,2629.646mil)  Top Layer
+   Violation between Pad *2-27(3792.322mil,2629.646mil)  Top Layer and 
+                     Pad *2-26(3772.638mil,2629.646mil)  Top Layer
+   Violation between Pad *2-28(3812.008mil,2629.646mil)  Top Layer and 
+                     Pad *2-27(3792.322mil,2629.646mil)  Top Layer
+   Violation between Pad *2-29(3831.692mil,2629.646mil)  Top Layer and 
+                     Pad *2-28(3812.008mil,2629.646mil)  Top Layer
+   Violation between Pad *2-30(3851.378mil,2629.646mil)  Top Layer and 
+                     Pad *2-29(3831.692mil,2629.646mil)  Top Layer
+   Violation between Pad *2-31(3871.064mil,2629.646mil)  Top Layer and 
+                     Pad *2-30(3851.378mil,2629.646mil)  Top Layer
+   Violation between Pad *2-32(3890.748mil,2629.646mil)  Top Layer and 
+                     Pad *2-31(3871.064mil,2629.646mil)  Top Layer
+   Violation between Pad *2-33(3910.434mil,2629.646mil)  Top Layer and 
+                     Pad *2-32(3890.748mil,2629.646mil)  Top Layer
+   Violation between Pad *2-34(3930.118mil,2629.646mil)  Top Layer and 
+                     Pad *2-33(3910.434mil,2629.646mil)  Top Layer
+   Violation between Pad *2-35(3949.804mil,2629.646mil)  Top Layer and 
+                     Pad *2-34(3930.118mil,2629.646mil)  Top Layer
+   Violation between Pad *2-36(3969.488mil,2629.646mil)  Top Layer and 
+                     Pad *2-35(3949.804mil,2629.646mil)  Top Layer
+Rule Violations :40
+
+Processing Rule : Silk To Solder Mask (Clearance=10mil) (IsPad),(All)
+   Violation between Pad *2-1(3280.512mil,2629.646mil)  Top Layer and 
+                     Arc (3253.937mil,2617.835mil)  Top Overlay
+   Violation between Text "R23" (3137mil,3988mil)  Top Overlay and 
+                     Pad *1-17(3159mil,4046mil)  Multi-Layer
+   Violation between Text "R26" (2872mil,3983mil)  Top Overlay and 
+                     Pad *1-15(2959mil,4046mil)  Multi-Layer
+   Violation between Text "R26" (2872mil,3983mil)  Top Overlay and 
+                     Pad *1-14(2859mil,4046mil)  Multi-Layer
+   Violation between Track (5145mil,2070mil)(5160mil,2070mil)  Top Overlay and 
+                     Pad CON2-1(5225mil,2070mil)  Multi-Layer
+   Violation between Track (5290mil,2070mil)(5305mil,2070mil)  Top Overlay and 
+                     Pad CON2-1(5225mil,2070mil)  Multi-Layer
+   Violation between Track (5490mil,2070mil)(5505mil,2070mil)  Top Overlay and 
+                     Pad CON2-2(5425mil,2070mil)  Multi-Layer
+   Violation between Track (5345mil,2070mil)(5360mil,2070mil)  Top Overlay and 
+                     Pad CON2-2(5425mil,2070mil)  Multi-Layer
+   Violation between Track (2510mil,3420mil)(2510mil,3890mil)  Top Overlay and 
+                     Pad S1-6(2470mil,3596.666mil)  Multi-Layer
+   Violation between Track (2510mil,3420mil)(2510mil,3890mil)  Top Overlay and 
+                     Pad S1-5(2470mil,3480mil)  Multi-Layer
+   Violation between Track (2510mil,3420mil)(2510mil,3890mil)  Top Overlay and 
+                     Pad S1-7(2470mil,3713.334mil)  Multi-Layer
+   Violation between Track (2115mil,3420mil)(2115mil,3890mil)  Top Overlay and 
+                     Pad S1-1(2155mil,3830mil)  Multi-Layer
+   Violation between Track (2510mil,3420mil)(2510mil,3890mil)  Top Overlay and 
+                     Pad S1-8(2470mil,3830mil)  Multi-Layer
+   Violation between Track (2115mil,3420mil)(2115mil,3890mil)  Top Overlay and 
+                     Pad S1-2(2155mil,3711.666mil)  Multi-Layer
+   Violation between Track (2115mil,3420mil)(2115mil,3890mil)  Top Overlay and 
+                     Pad S1-3(2155mil,3593.334mil)  Multi-Layer
+   Violation between Track (2115mil,3420mil)(2115mil,3890mil)  Top Overlay and 
+                     Pad S1-4(2155mil,3475mil)  Multi-Layer
+   Violation between Track (5125mil,3263mil)(5125mil,3540mil)  Top Overlay and 
+                     Pad R33-2(5078mil,3402mil)  Multi-Layer
+Rule Violations :17
+
+Processing Rule : Silk to Silk (Clearance=10mil) (All),(All)
+   Violation between Text "C30" (5934mil,3176mil)  Top Overlay and 
+                     Arc (6000mil,3350mil)  Top Overlay
+   Violation between Text "+" (6220mil,2895mil)  Top Overlay and 
+                     Arc (6075mil,3005mil)  Top Overlay
+Rule Violations :2
+
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
+Rule Violations :0
+
+
+Violations Detected : 500
+Time Elapsed        : 00:00:01

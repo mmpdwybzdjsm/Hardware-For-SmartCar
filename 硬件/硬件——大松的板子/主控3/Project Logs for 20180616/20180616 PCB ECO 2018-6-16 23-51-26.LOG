@@ -1,0 +1,6 @@
+Added Pin To Net: NetName=PTE6 Pin=K1-40
+Added Pin To Net: NetName=PTE7 Pin=K1-42
+Added Pin To Net: NetName=PTE10 Pin=K1-45
+Added Pin To Net: NetName=3V3 Pin=R3-2
+Added Pin To Net: NetName=3V3 Pin=R4-1
+Added Room: Name=20180616

@@ -1,0 +1,12 @@
+Board Information Report
+Filename     : E:\ProjectFile\ADFile\ÇçÑ©\Ö÷¿Ø\DS_ZK_2.0.PcbDoc
+Date         : 2018/5/26
+Time         : 19:53:56
+Time Elapsed : 00:00:00
+
+Routing Information
+    Routing completion, 94.34%
+    Connections, 512
+    Connections routed, 483
+    Connections remaining, 29
+count : 4

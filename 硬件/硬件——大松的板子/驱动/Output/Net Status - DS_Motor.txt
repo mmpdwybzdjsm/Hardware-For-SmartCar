@@ -1,0 +1,40 @@
+Net Status Report
+Filename     : E:\ProjectFile\ADFile\ÇçÑ©\Çý¶¯\DS_Motor.PcbDoc
+Date         : 2017/11/27
+Time         : 19:43:37
+Time Elapsed : 00:00:00
+
+Nets, Layer, Length
+    12V, Signal Layers Only, 3821.385mils
+    GND, Signal Layers Only, 0mils
+    MOTOR1 IN1, Signal Layers Only, 712.894mils
+    MOTOR1 IN2, Signal Layers Only, 487.524mils
+    MOTOR1 IN3, Signal Layers Only, 1060.873mils
+    MOTOR1 IN4, Signal Layers Only, 709.553mils
+    NetB1_1, Signal Layers Only, 1900.611mils
+    NetB1_2, Signal Layers Only, 1809.077mils
+    NetB2_1, Signal Layers Only, 2275.247mils
+    NetB2_2, Signal Layers Only, 1886.363mils
+    NetC11_1, Signal Layers Only, 290.803mils
+    NetC2_1, Signal Layers Only, 285.597mils
+    NetC6_1, Signal Layers Only, 282.106mils
+    NetC9_1, Signal Layers Only, 275.577mils
+    NetCON1_2, Signal Layers Only, 350mils
+    NetQ1_1, Signal Layers Only, 777.819mils
+    NetQ2_1, Signal Layers Only, 536.417mils
+    NetQ3_1, Signal Layers Only, 934.169mils
+    NetQ4_1, Signal Layers Only, 490.658mils
+    NetQ5_1, Signal Layers Only, 580.824mils
+    NetQ6_1, Signal Layers Only, 893.488mils
+    NetQ7_1, Signal Layers Only, 576.103mils
+    NetQ8_1, Signal Layers Only, 676.802mils
+    NetR10_1, Signal Layers Only, 106.478mils
+    NetR11_1, Signal Layers Only, 271.128mils
+    NetR12_1, Signal Layers Only, 106.212mils
+    NetR16_1, Signal Layers Only, 259.16mils
+    NetR17_1, Signal Layers Only, 96.378mils
+    NetR3_1, Signal Layers Only, 279.764mils
+    NetR4_1, Signal Layers Only, 109.204mils
+    NetR9_1, Signal Layers Only, 281.58mils
+    VBAT, Signal Layers Only, 5212.301mils
+count : 32

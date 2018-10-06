@@ -1,0 +1,17 @@
+Board Information Report
+Filename     : C:\Users\11212\Desktop\FINAL\wzy_PCB1_01.PcbDoc
+Date         : 2018/10/4
+Time         : 0:23:19
+Time Elapsed : 00:00:00
+
+General
+    Board Size, 3220.03milsx2005.034mils
+    Components on board, 58
+count : 2
+
+Routing Information
+    Routing completion, 100.00%
+    Connections, 134
+    Connections routed, 134
+    Connections remaining, 0
+count : 4

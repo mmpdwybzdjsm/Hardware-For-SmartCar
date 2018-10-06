@@ -1,0 +1,5 @@
+Added Component: Designator=CON1(DIZUO)
+Added Pin To Net: NetName=NetCON1_1 Pin=CON1-1
+Added Pin To Net: NetName=GND Pin=CON1-2
+Added Member To Class: ClassName=ai Member=Component CON1 PowerIn
+Added Room: Name=ai

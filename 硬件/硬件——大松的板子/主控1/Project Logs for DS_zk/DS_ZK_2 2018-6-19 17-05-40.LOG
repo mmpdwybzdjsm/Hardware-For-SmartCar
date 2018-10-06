@@ -1,0 +1,15 @@
+Added Component: Designator=CON1(DIZUO)
+Added Component: Designator=S1(BMKG)
+Added Pin To Net: NetName=NetCON1_1 Pin=CON1-1
+Added Pin To Net: NetName=GND Pin=CON1-2
+Added Pin To Net: NetName=GND Pin=S1-1
+Added Pin To Net: NetName=GND Pin=S1-2
+Added Pin To Net: NetName=GND Pin=S1-3
+Added Pin To Net: NetName=GND Pin=S1-4
+Added Pin To Net: NetName=PTB19 Pin=S1-5
+Added Pin To Net: NetName=PTB18 Pin=S1-6
+Added Pin To Net: NetName=PTB17 Pin=S1-7
+Added Pin To Net: NetName=PTB16 Pin=S1-8
+Added Member To Class: ClassName=DS_ZK_FINAL Member=Component CON1 PowerIn
+Added Member To Class: ClassName=DS_ZK_FINAL Member=Component S1 SW-DIP4
+Added Room: Name=DS_ZK_FINAL
